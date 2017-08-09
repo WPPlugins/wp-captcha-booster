@@ -1,0 +1,1583 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: captcha Booster\n"
+"POT-Creation-Date: 2017-04-13 14:17+0530\n"
+"PO-Revision-Date: 2017-04-13 14:17+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;gettext;.\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations-frontend.php:12 includes/translations.php:340
+msgid "1 Hour"
+msgstr ""
+
+#: includes/translations-frontend.php:13 includes/translations.php:341
+msgid "12 Hours"
+msgstr ""
+
+#: includes/translations-frontend.php:14 includes/translations.php:342
+msgid "24 Hours"
+msgstr ""
+
+#: includes/translations-frontend.php:15 includes/translations.php:343
+msgid "48 Hours"
+msgstr ""
+
+#: includes/translations-frontend.php:16 includes/translations.php:344
+msgid "1 Week"
+msgstr ""
+
+#: includes/translations-frontend.php:17 includes/translations.php:345
+msgid "1 Month"
+msgstr ""
+
+#: includes/translations-frontend.php:18 includes/translations.php:346
+msgid "Permanently"
+msgstr ""
+
+#: includes/translations-frontend.php:19
+msgid "for "
+msgstr ""
+
+#: includes/translations-frontend.php:22
+msgid "Enter Captcha Here"
+msgstr ""
+
+#: includes/translations-frontend.php:24
+msgid "Arrange in Ascending Order"
+msgstr ""
+
+#: includes/translations-frontend.php:25
+msgid "Arrange in Descending Order"
+msgstr ""
+
+#: includes/translations-frontend.php:26
+msgid " (Use ',' to separate the numbers) :"
+msgstr ""
+
+#: includes/translations-frontend.php:27
+msgid "Which Number is Larger "
+msgstr ""
+
+#: includes/translations-frontend.php:28
+msgid "Which Number is Smaller "
+msgstr ""
+
+#: includes/translations-frontend.php:29
+msgid "ERROR"
+msgstr ""
+
+#: includes/translations-frontend.php:30
+msgid " or "
+msgstr ""
+
+#: includes/translations-frontend.php:31
+msgid "Encryption password is not set"
+msgstr ""
+
+#: includes/translations-frontend.php:32
+msgid "Decryption password is not set"
+msgstr ""
+
+#: includes/translations-frontend.php:33
+msgid "Solve"
+msgstr ""
+
+#: includes/translations.php:32
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+
+#: includes/translations.php:33
+msgid "Captcha Type has been saved Successfully"
+msgstr ""
+
+#: includes/translations.php:34
+msgid "Success!"
+msgstr ""
+
+#: includes/translations.php:35
+msgid "Error Messages have been saved Successfully"
+msgstr ""
+
+#: includes/translations.php:36
+msgid "Display Settings have been saved Successfully"
+msgstr ""
+
+#: includes/translations.php:37
+msgid "Alert Setup has been saved Successfully"
+msgstr ""
+
+#: includes/translations.php:38
+msgid "Your request email has been sent Successfully"
+msgstr ""
+
+#: includes/translations.php:39
+msgid "Blocking Options have been saved Successfully"
+msgstr ""
+
+#: includes/translations.php:40
+msgid "IP Address has been blocked Successfully"
+msgstr ""
+
+#: includes/translations.php:41
+msgid "IP Range has been blocked Successfully"
+msgstr ""
+
+#: includes/translations.php:42
+msgid "IP Address has been deleted Successfully"
+msgstr ""
+
+#: includes/translations.php:43
+msgid "IP Range has been deleted Successfully"
+msgstr ""
+
+#: includes/translations.php:44
+msgid "Other Settings have been saved Successfully"
+msgstr ""
+
+#: includes/translations.php:45
+msgid "Error Logs has been cleared Successfully"
+msgstr ""
+
+#: includes/translations.php:46
+msgid "Please provide Number between 1 to 100"
+msgstr ""
+
+#: includes/translations.php:47
+msgid "Please provide Number between 1 to 10"
+msgstr ""
+
+#: includes/translations.php:48
+msgid "Error Message"
+msgstr ""
+
+#: includes/translations.php:49
+msgid "Please choose at least one Arithmetic action!"
+msgstr ""
+
+#: includes/translations.php:50
+msgid "IP Address"
+msgstr ""
+
+#: includes/translations.php:51
+msgid "Location"
+msgstr ""
+
+#: includes/translations.php:52
+msgid "Latitude"
+msgstr ""
+
+#: includes/translations.php:53
+msgid "Longitude"
+msgstr ""
+
+#: includes/translations.php:54
+msgid "N/A"
+msgstr ""
+
+#: includes/translations.php:55
+msgid "Are you sure you want to delete ?"
+msgstr ""
+
+#: includes/translations.php:56
+msgid "Please provide valid IP Range"
+msgstr ""
+
+#: includes/translations.php:57
+msgid "Please provide valid IP Address"
+msgstr ""
+
+#: includes/translations.php:58
+msgid "This IP Address has been already blocked!"
+msgstr ""
+
+#: includes/translations.php:59
+msgid "Notification!"
+msgstr ""
+
+#: includes/translations.php:60
+msgid "This IP Range has been already blocked!"
+msgstr ""
+
+#: includes/translations.php:63
+msgid ""
+"In this field, you would need to choose between different types of captcha. "
+"You could choose between Text Captcha and Logical Captcha"
+msgstr ""
+
+#: includes/translations.php:64
+msgid "Text Captcha"
+msgstr ""
+
+#: includes/translations.php:65
+msgid "Logical Captcha"
+msgstr ""
+
+#: includes/translations.php:66
+msgid "Captcha Characters"
+msgstr ""
+
+#: includes/translations.php:67
+msgid ""
+"In this field, you would need to provide number of characters to be used for "
+"creating a captcha control"
+msgstr ""
+
+#: includes/translations.php:68
+msgid "Please provide Captcha Characters"
+msgstr ""
+
+#: includes/translations.php:69
+msgid "Captcha String Type"
+msgstr ""
+
+#: includes/translations.php:70
+msgid ""
+"In this field, you would need to choose whether to create captcha control "
+"with Alphabets and Digits Only Alphabets Only Digits"
+msgstr ""
+
+#: includes/translations.php:71
+msgid "Alphabets And Digits"
+msgstr ""
+
+#: includes/translations.php:72
+msgid "Only Alphabets"
+msgstr ""
+
+#: includes/translations.php:73
+msgid "Only Digits"
+msgstr ""
+
+#: includes/translations.php:74
+msgid "Text Case"
+msgstr ""
+
+#: includes/translations.php:75
+msgid ""
+"In this field, you would need to choose whether to create captcha control "
+"with Upper Case Lower Case Random"
+msgstr ""
+
+#: includes/translations.php:76
+msgid "Upper Case"
+msgstr ""
+
+#: includes/translations.php:77
+msgid "Lower Case"
+msgstr ""
+
+#: includes/translations.php:78
+msgid "Random"
+msgstr ""
+
+#: includes/translations.php:79
+msgid "Case Sensitive"
+msgstr ""
+
+#: includes/translations.php:80
+msgid ""
+"In this field, you would need to choose whether to create captcha control "
+"with Case Sensitive or vice versa"
+msgstr ""
+
+#: includes/translations.php:81
+msgid "Captcha Width"
+msgstr ""
+
+#: includes/translations.php:82
+msgid ""
+"In this field, you would need to provide a width of captcha control in pixels"
+msgstr ""
+
+#: includes/translations.php:83
+msgid "Please provide Captcha Width"
+msgstr ""
+
+#: includes/translations.php:84
+msgid "Captcha Height"
+msgstr ""
+
+#: includes/translations.php:85
+msgid ""
+"In this field, you would need to provide a height of captcha control in "
+"pixels"
+msgstr ""
+
+#: includes/translations.php:86
+msgid "Please provide Captcha Height"
+msgstr ""
+
+#: includes/translations.php:87
+msgid "Captcha Background"
+msgstr ""
+
+#: includes/translations.php:88
+msgid ""
+"In this field, you would need to choose different backgrounds for captcha "
+"control"
+msgstr ""
+
+#: includes/translations.php:89
+msgid "Pattern 1"
+msgstr ""
+
+#: includes/translations.php:90
+msgid "Pattern 2"
+msgstr ""
+
+#: includes/translations.php:91
+msgid "Pattern 3"
+msgstr ""
+
+#: includes/translations.php:92
+msgid "Pattern 4"
+msgstr ""
+
+#: includes/translations.php:93
+msgid "Pattern 5"
+msgstr ""
+
+#: includes/translations.php:94
+msgid "Pattern 6"
+msgstr ""
+
+#: includes/translations.php:95
+msgid "Pattern 7"
+msgstr ""
+
+#: includes/translations.php:96
+msgid "Pattern 8"
+msgstr ""
+
+#: includes/translations.php:97
+msgid "Pattern 9"
+msgstr ""
+
+#: includes/translations.php:98
+msgid "Pattern 10"
+msgstr ""
+
+#: includes/translations.php:99
+msgid "Pattern 11"
+msgstr ""
+
+#: includes/translations.php:100
+msgid "Pattern 12"
+msgstr ""
+
+#: includes/translations.php:101
+msgid "Pattern 13"
+msgstr ""
+
+#: includes/translations.php:102
+msgid "Pattern 14"
+msgstr ""
+
+#: includes/translations.php:103
+msgid "Pattern 15"
+msgstr ""
+
+#: includes/translations.php:104
+msgid "Pattern 16"
+msgstr ""
+
+#: includes/translations.php:105
+msgid "Pattern 17"
+msgstr ""
+
+#: includes/translations.php:106
+msgid "Pattern 18"
+msgstr ""
+
+#: includes/translations.php:107
+msgid "Text Style"
+msgstr ""
+
+#: includes/translations.php:108
+msgid ""
+"In this field, you would need to set Font, Size and Font Color for captcha "
+"control"
+msgstr ""
+
+#: includes/translations.php:109
+msgid "Text Font"
+msgstr ""
+
+#: includes/translations.php:110
+msgid "In this field, you would need to choose Font Type for captcha control"
+msgstr ""
+
+#: includes/translations.php:111
+msgid "Border Style"
+msgstr ""
+
+#: includes/translations.php:112
+msgid ""
+"In this field, you would need to choose Border Color, Border Size and Border "
+"Type for captcha control"
+msgstr ""
+
+#: includes/translations.php:113
+msgid "Solid"
+msgstr ""
+
+#: includes/translations.php:114
+msgid "Dotted"
+msgstr ""
+
+#: includes/translations.php:115
+msgid "Dashed"
+msgstr ""
+
+#: includes/translations.php:116
+msgid "Lines"
+msgstr ""
+
+#: includes/translations.php:117
+msgid ""
+"In this field, you would need to provide number of lines for captcha control"
+msgstr ""
+
+#: includes/translations.php:118
+msgid "Please provide number of Lines"
+msgstr ""
+
+#: includes/translations.php:119
+msgid "Lines Color"
+msgstr ""
+
+#: includes/translations.php:120
+msgid "In this field, you would need to choose Line Color for captcha control"
+msgstr ""
+
+#: includes/translations.php:121
+msgid "Noise level"
+msgstr ""
+
+#: includes/translations.php:122
+msgid "In this field, you would need to provide Noise in captcha control"
+msgstr ""
+
+#: includes/translations.php:123
+msgid "Please provide Noise Level"
+msgstr ""
+
+#: includes/translations.php:124
+msgid "Noise Color"
+msgstr ""
+
+#: includes/translations.php:125
+msgid "In this field, you would need to choose Noise Color for captcha control"
+msgstr ""
+
+#: includes/translations.php:126
+msgid "Text Transparency %"
+msgstr ""
+
+#: includes/translations.php:127
+msgid ""
+"In this field, you would need to provide Text Transparency for captcha "
+"control"
+msgstr ""
+
+#: includes/translations.php:128
+msgid "Please provide Text Transparency"
+msgstr ""
+
+#: includes/translations.php:129
+msgid "Signature Text"
+msgstr ""
+
+#: includes/translations.php:130
+msgid ""
+"In this field, you would need to provide Signature Text for captcha control"
+msgstr ""
+
+#: includes/translations.php:131
+msgid "Please provide Signature Text"
+msgstr ""
+
+#: includes/translations.php:132
+msgid "Signature Style"
+msgstr ""
+
+#: includes/translations.php:133
+msgid ""
+"In this field, you would need to choose Signature Style and Signature Color "
+"for captcha control"
+msgstr ""
+
+#: includes/translations.php:134
+msgid "Signature Font"
+msgstr ""
+
+#: includes/translations.php:135
+msgid "In this field, you would need to choose Font Family for captcha control"
+msgstr ""
+
+#: includes/translations.php:136
+msgid "Text Shadow Color"
+msgstr ""
+
+#: includes/translations.php:137
+msgid ""
+"In this field, you would need to choose Text Shadow Color for captcha control"
+msgstr ""
+
+#: includes/translations.php:138
+msgid "Mathematical Operations"
+msgstr ""
+
+#: includes/translations.php:139
+msgid ""
+"In this field, you would need to choose whether to create a Captcha control "
+"with Arithmetic Relational Arrange Order"
+msgstr ""
+
+#: includes/translations.php:140
+msgid "Arithmetic"
+msgstr ""
+
+#: includes/translations.php:141
+msgid "Relational"
+msgstr ""
+
+#: includes/translations.php:142
+msgid "Arithmetic Actions"
+msgstr ""
+
+#: includes/translations.php:143
+msgid "Addition(+)"
+msgstr ""
+
+#: includes/translations.php:144
+msgid "Subtraction(-)"
+msgstr ""
+
+#: includes/translations.php:145
+msgid "Multiplication(*)"
+msgstr ""
+
+#: includes/translations.php:146
+msgid "Division(/)"
+msgstr ""
+
+#: includes/translations.php:147
+msgid ""
+"In this field, you would need to choose specific arithmetic actions to "
+"create a captcha control"
+msgstr ""
+
+#: includes/translations.php:148
+msgid "Relational Actions"
+msgstr ""
+
+#: includes/translations.php:149
+msgid ""
+"In this field, you would need to choose specific relational actions to "
+"create a captcha control"
+msgstr ""
+
+#: includes/translations.php:150
+msgid "Largest Number"
+msgstr ""
+
+#: includes/translations.php:151
+msgid "Smallest Number"
+msgstr ""
+
+#: includes/translations.php:152
+msgid "Arrange Order"
+msgstr ""
+
+#: includes/translations.php:153
+msgid ""
+"In this field, you would need to choose the specific arranging order for "
+"captcha"
+msgstr ""
+
+#: includes/translations.php:154
+msgid "Ascending Order"
+msgstr ""
+
+#: includes/translations.php:155
+msgid "Descending Order"
+msgstr ""
+
+#: includes/translations.php:158
+msgid ""
+"If you would like that plugin would be automatically updated whenever there "
+"is a new version available, then choose enable or vice-versa from the drop-"
+"down"
+msgstr ""
+
+#: includes/translations.php:159
+msgid "Automatic Plugin Updates"
+msgstr ""
+
+#: includes/translations.php:160
+msgid "Live Traffic Monitoring"
+msgstr ""
+
+#: includes/translations.php:161
+msgid ""
+"If you would like to monitor details of user who are currently visiting the "
+"website and pages visited by them, then choose enable or vice-versa from the "
+"drop-down"
+msgstr ""
+
+#: includes/translations.php:162
+msgid "Visitor Logs Monitoring"
+msgstr ""
+
+#: includes/translations.php:163
+msgid ""
+"If you would like to monitor details of user who are visiting the website "
+"and pages visited by them, then choose enable or vice-versa from the drop-"
+"down"
+msgstr ""
+
+#: includes/translations.php:164
+msgid "Remove Tables At Uninstall"
+msgstr ""
+
+#: includes/translations.php:165
+msgid ""
+"In this field, you would need to choose a specific option whether to remove "
+"tables at Uninstall"
+msgstr ""
+
+#: includes/translations.php:166
+msgid "How does Captcha Booster get IPs"
+msgstr ""
+
+#: includes/translations.php:167
+msgid ""
+"In this field, you would need to choose a specific option  for how does "
+"Captcha Booster get IPs"
+msgstr ""
+
+#: includes/translations.php:168
+msgid ""
+"Let Captcha Booster use the most secure method to get visitor IP address. "
+"Prevents spoofing and works with most sites."
+msgstr ""
+
+#: includes/translations.php:169
+msgid ""
+"Use PHP's built in REMOTE_ADDR and don't use anything else. Very secure if "
+"this is compatible with your site."
+msgstr ""
+
+#: includes/translations.php:170
+msgid ""
+"Use the X-Forwarded-For HTTP header. Only use if you have a front-end proxy "
+"or spoofing may result."
+msgstr ""
+
+#: includes/translations.php:171
+msgid ""
+"Use the X-Real-IP HTTP header. Only use if you have a front-end proxy or "
+"spoofing may result."
+msgstr ""
+
+#: includes/translations.php:172
+msgid ""
+"Use the Cloudflare 'CF-Connecting-IP' HTTP header to get a visitor IP. Only "
+"use if you're using Cloudflare."
+msgstr ""
+
+#: includes/translations.php:173
+msgid "Error Reporting"
+msgstr ""
+
+#: includes/translations.php:174
+msgid ""
+"If you would like to Report your Errors in Error Logs Menu, then you would "
+"need to Choose Enable from dropdown or vice-versa"
+msgstr ""
+
+#: includes/translations.php:178
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user fails to login to your website"
+msgstr ""
+
+#: includes/translations.php:179
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user succeeds in login to your website"
+msgstr ""
+
+#: includes/translations.php:180
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being blocked to your "
+"website"
+msgstr ""
+
+#: includes/translations.php:181
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being unblocked to your "
+"website"
+msgstr ""
+
+#: includes/translations.php:182
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being blocked to your website"
+msgstr ""
+
+#: includes/translations.php:183
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being unblocked to your "
+"website"
+msgstr ""
+
+#: includes/translations.php:184
+msgid "Email when a User Fails Login"
+msgstr ""
+
+#: includes/translations.php:185
+msgid "Email when a User Success Login"
+msgstr ""
+
+#: includes/translations.php:186
+msgid "Email when an IP Address is Blocked"
+msgstr ""
+
+#: includes/translations.php:187
+msgid "Email when an IP Address is Unblocked"
+msgstr ""
+
+#: includes/translations.php:188
+msgid "Email when an IP Range is Blocked"
+msgstr ""
+
+#: includes/translations.php:189
+msgid "Email when an IP Range is Unblocked"
+msgstr ""
+
+#: includes/translations.php:192
+msgid ""
+"In this field, you would need to choose a template to configure Settings"
+msgstr ""
+
+#: includes/translations.php:193
+msgid "Choose Email Template"
+msgstr ""
+
+#: includes/translations.php:194
+msgid "Send To"
+msgstr ""
+
+#: includes/translations.php:195
+msgid ""
+"In this field, you would need to provide a valid email address where you "
+"want email notification to go when a user successfully logs into your website"
+msgstr ""
+
+#: includes/translations.php:196
+msgid "Please provide Email Address"
+msgstr ""
+
+#: includes/translations.php:197
+msgid "Cc"
+msgstr ""
+
+#: includes/translations.php:198
+msgid "In this field, you would need to provide valid Cc Email Address"
+msgstr ""
+
+#: includes/translations.php:199
+msgid "Please provide Cc Email"
+msgstr ""
+
+#: includes/translations.php:200
+msgid "Bcc"
+msgstr ""
+
+#: includes/translations.php:201
+msgid "In this field, you would need to provide valid Bcc Email Address"
+msgstr ""
+
+#: includes/translations.php:202
+msgid "Please provide Bcc Email"
+msgstr ""
+
+#: includes/translations.php:203
+msgid "In this field, you would need to provide Subject for Email"
+msgstr ""
+
+#: includes/translations.php:204
+msgid "Message"
+msgstr ""
+
+#: includes/translations.php:205
+msgid "In this field, you would need to provide the Content for Email"
+msgstr ""
+
+#: includes/translations.php:206
+msgid "Template For User Successful Login"
+msgstr ""
+
+#: includes/translations.php:207
+msgid "Template For User Failure Login"
+msgstr ""
+
+#: includes/translations.php:208
+msgid "Template For IP Address Blocked"
+msgstr ""
+
+#: includes/translations.php:209
+msgid "Template For IP Address Unblocked"
+msgstr ""
+
+#: includes/translations.php:210
+msgid "Template For IP Range Blocked"
+msgstr ""
+
+#: includes/translations.php:211
+msgid "Template For IP Range Unblocked"
+msgstr ""
+
+#: includes/translations.php:214
+msgid "Show Captcha Booster Menu"
+msgstr ""
+
+#: includes/translations.php:215
+msgid ""
+"In this field, you would need to choose a specific role who can see Sidebar "
+"Menu"
+msgstr ""
+
+#: includes/translations.php:216
+msgid "Administrator"
+msgstr ""
+
+#: includes/translations.php:217
+msgid "Author"
+msgstr ""
+
+#: includes/translations.php:218
+msgid "Editor"
+msgstr ""
+
+#: includes/translations.php:219
+msgid "Contributor"
+msgstr ""
+
+#: includes/translations.php:220
+msgid "Subscriber"
+msgstr ""
+
+#: includes/translations.php:221
+msgid "Others"
+msgstr ""
+
+#: includes/translations.php:222
+msgid "Show Captcha Booster Top Bar Menu"
+msgstr ""
+
+#: includes/translations.php:223
+msgid ""
+"In this field, you would need to choose enable or disable option to show "
+"Captcha Booster Top Bar Menu"
+msgstr ""
+
+#: includes/translations.php:224
+msgid "An Administrator Role can do the following "
+msgstr ""
+
+#: includes/translations.php:225
+msgid ""
+"In this field, you would need to choose specific page available for "
+"Administrator Access"
+msgstr ""
+
+#: includes/translations.php:226
+msgid "An Author Role can do the following "
+msgstr ""
+
+#: includes/translations.php:227
+msgid ""
+"In this field, you would need to choose specific page available for Author "
+"Access"
+msgstr ""
+
+#: includes/translations.php:228
+msgid "An Editor Role can do the following "
+msgstr ""
+
+#: includes/translations.php:229
+msgid ""
+"In this field, you would need to choose specific page available for Editor "
+"Access"
+msgstr ""
+
+#: includes/translations.php:230
+msgid "A Contributor Role can do the following "
+msgstr ""
+
+#: includes/translations.php:231
+msgid ""
+"In this field, you would need to choose specific page available for "
+"Contributor Access"
+msgstr ""
+
+#: includes/translations.php:232
+msgid "A Subscriber Role can do the following "
+msgstr ""
+
+#: includes/translations.php:233
+msgid ""
+"In this field, you would need to choose specific page available for "
+"Subscriber Access"
+msgstr ""
+
+#: includes/translations.php:234
+msgid "Other Roles can do the following "
+msgstr ""
+
+#: includes/translations.php:235
+msgid "Please choose specific page available for Others Role Access."
+msgstr ""
+
+#: includes/translations.php:236
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr ""
+
+#: includes/translations.php:237
+msgid "Only users with these capabilities can access Captcha Booster"
+msgstr ""
+
+#: includes/translations.php:240
+msgid "In this field, you would be able to see start date of Login Logs"
+msgstr ""
+
+#: includes/translations.php:241
+msgid "In this field, you would be able to see end date of Login Logs"
+msgstr ""
+
+#: includes/translations.php:242
+msgid "In this field, you would be able to see start date of Visitor Logs"
+msgstr ""
+
+#: includes/translations.php:243
+msgid "In this field, you would be able to see end date of Visitor Logs"
+msgstr ""
+
+#: includes/translations.php:244
+msgid ""
+"Live Traffic Monitoring is Turned Off. Please go to General Setiings > Other "
+"Settings Menu to enable it"
+msgstr ""
+
+#: includes/translations.php:245
+msgid "Login Logs On World Map"
+msgstr ""
+
+#: includes/translations.php:246
+msgid "Live Traffic On World Map"
+msgstr ""
+
+#: includes/translations.php:247
+msgid "Visitor Logs On World Map"
+msgstr ""
+
+#: includes/translations.php:248
+msgid ""
+"Visitor Logs Monitoring is Turned Off. Please go to General Setiings > Other "
+"Settings Menu to enable it"
+msgstr ""
+
+#: includes/translations.php:249
+msgid "Details"
+msgstr ""
+
+#: includes/translations.php:250
+msgid "Status"
+msgstr ""
+
+#: includes/translations.php:253
+msgid "For Maximum Login Attempts Error Message"
+msgstr ""
+
+#: includes/translations.php:254
+msgid ""
+"in this field, you would need to provide an error message to be displayed "
+"when a user exceeds maximum number of login attempts"
+msgstr ""
+
+#: includes/translations.php:255
+msgid "Please provide Login Attempts Error Message"
+msgstr ""
+
+#: includes/translations.php:256
+msgid "For Invalid Captcha Error Message"
+msgstr ""
+
+#: includes/translations.php:257
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when an Invalid captcha is provided by a user"
+msgstr ""
+
+#: includes/translations.php:258
+msgid "Please provide Invalid Captcha Error Message"
+msgstr ""
+
+#: includes/translations.php:259
+msgid "For Blocked IP Address Error Message"
+msgstr ""
+
+#: includes/translations.php:260
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when a user IP Address is blocked"
+msgstr ""
+
+#: includes/translations.php:261
+msgid "Please provide Blocked IP Address Error Message"
+msgstr ""
+
+#: includes/translations.php:262
+msgid "For Captcha Empty Error Message"
+msgstr ""
+
+#: includes/translations.php:263
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when the captcha is empty"
+msgstr ""
+
+#: includes/translations.php:264
+msgid "Please provide Empty Captcha Error Message"
+msgstr ""
+
+#: includes/translations.php:265
+msgid "For Blocked IP Range Error Message"
+msgstr ""
+
+#: includes/translations.php:266
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when a user IP Range is blocked"
+msgstr ""
+
+#: includes/translations.php:267
+msgid "Please provide Blocked IP Range Error Message"
+msgstr ""
+
+#: includes/translations.php:268
+msgid "For Blocked Country Error Message"
+msgstr ""
+
+#: includes/translations.php:269
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when a user country is blocked"
+msgstr ""
+
+#: includes/translations.php:270
+msgid "Please provide your Blocked Country Error Message"
+msgstr ""
+
+#: includes/translations.php:273
+msgid "Enable Captcha For"
+msgstr ""
+
+#: includes/translations.php:274
+msgid ""
+"In this field, you would need to choose specific Forms to display Captcha"
+msgstr ""
+
+#: includes/translations.php:275
+msgid "Login Form"
+msgstr ""
+
+#: includes/translations.php:276
+msgid "Registration Form"
+msgstr ""
+
+#: includes/translations.php:277
+msgid "Reset Password Form"
+msgstr ""
+
+#: includes/translations.php:278
+msgid "Comment Form"
+msgstr ""
+
+#: includes/translations.php:279
+msgid "Admin Comment Form"
+msgstr ""
+
+#: includes/translations.php:280
+msgid "Hide Captcha For Registered user"
+msgstr ""
+
+#: includes/translations.php:281
+msgid "Captcha For WooCommerce"
+msgstr ""
+
+#: includes/translations.php:282
+msgid "Captcha For Contact Form 7"
+msgstr ""
+
+#: includes/translations.php:283
+msgid "Captcha For BuddyPress Registration Form"
+msgstr ""
+
+#: includes/translations.php:286
+msgid "Thank You!"
+msgstr ""
+
+#: includes/translations.php:287
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+
+#: includes/translations.php:288
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+
+#: includes/translations.php:289
+msgid "You can also write us on"
+msgstr ""
+
+#: includes/translations.php:290
+msgid "Your Name"
+msgstr ""
+
+#: includes/translations.php:291
+msgid ""
+"In this field, you would need to provide your Name which will be sent along "
+"with your Feature Request"
+msgstr ""
+
+#: includes/translations.php:292
+msgid "Please provide your Name"
+msgstr ""
+
+#: includes/translations.php:293
+msgid "Your Email"
+msgstr ""
+
+#: includes/translations.php:294
+msgid ""
+"In this field, you would need to provide your Email which will be sent along "
+"with your Feature Request"
+msgstr ""
+
+#: includes/translations.php:295
+msgid "Please provide your Email"
+msgstr ""
+
+#: includes/translations.php:296
+msgid "Feature Request"
+msgstr ""
+
+#: includes/translations.php:297
+msgid ""
+"In this field, you would need to provide your Feature Request which will be "
+"sent along"
+msgstr ""
+
+#: includes/translations.php:298
+msgid "Please provide your Feature Request"
+msgstr ""
+
+#: includes/translations.php:299
+msgid "Send Request"
+msgstr ""
+
+#: includes/translations.php:302
+msgid "Error Logs"
+msgstr ""
+
+#: includes/translations.php:303
+msgid "Output"
+msgstr ""
+
+#: includes/translations.php:304
+msgid "Download Error Log"
+msgstr ""
+
+#: includes/translations.php:305
+msgid "Clear Error Log"
+msgstr ""
+
+#: includes/translations.php:306
+msgid "In this field,you would be able to see all PHP Errors"
+msgstr ""
+
+#: includes/translations.php:309
+msgid "Auto IP Block"
+msgstr ""
+
+#: includes/translations.php:310
+msgid ""
+"In this field, you would need to choose Enable to automatically block an IP "
+"Address when a user exceeds their maximum login attempts"
+msgstr ""
+
+#: includes/translations.php:311
+msgid "Maximum Login Attempts in a Day"
+msgstr ""
+
+#: includes/translations.php:312
+msgid ""
+"In this field, you would need to provide the maximum number of login "
+"attempts in a day. If a user exceeds its login attempts, then their IP "
+"Address will be automatically blocked"
+msgstr ""
+
+#: includes/translations.php:313
+msgid "Please provide Maximum Login Attempts"
+msgstr ""
+
+#: includes/translations.php:316
+msgid ""
+"In this field, you would need to provide a valid IP Address which you would "
+"like to block, so that  blocked user will not be able to access website"
+msgstr ""
+
+#: includes/translations.php:317
+msgid "View Blocked IP Addresses"
+msgstr ""
+
+#: includes/translations.php:318
+msgid ""
+"In this field, you would need to provide start date of Blocked IP Addresses"
+msgstr ""
+
+#: includes/translations.php:319
+msgid ""
+"In this field, you would need to provide end date of Blocked IP Addresses"
+msgstr ""
+
+#: includes/translations.php:320
+msgid ""
+" In this field, you would need to provide comments regarding the reason for "
+"blocking this IP Address"
+msgstr ""
+
+#: includes/translations.php:323
+msgid "Start IP Range"
+msgstr ""
+
+#: includes/translations.php:324
+msgid ""
+"In this field, you would need to provide a valid Start IP Ranges which you "
+"would like to block"
+msgstr ""
+
+#: includes/translations.php:325
+msgid "Please provide Start IP Range"
+msgstr ""
+
+#: includes/translations.php:326
+msgid "End IP Range"
+msgstr ""
+
+#: includes/translations.php:327
+msgid ""
+"In this field, you would need to provide a valid End IP Ranges which you "
+"would like to block"
+msgstr ""
+
+#: includes/translations.php:328
+msgid "Please provide End IP Range"
+msgstr ""
+
+#: includes/translations.php:329
+msgid ""
+"In this field, you would need to choose a time duration for which you would "
+"like to block IP Ranges"
+msgstr ""
+
+#: includes/translations.php:330
+msgid ""
+"In this field, you would need to provide comments regarding the reason for "
+"blocking this IP Ranges"
+msgstr ""
+
+#: includes/translations.php:331
+msgid "Block IP Range"
+msgstr ""
+
+#: includes/translations.php:332
+msgid "View Blocked IP Ranges"
+msgstr ""
+
+#: includes/translations.php:333
+msgid "In this field, you would need to provide start date of Blocked IP Range"
+msgstr ""
+
+#: includes/translations.php:334
+msgid "In this field, you would need to provide end date of Blocked IP Range"
+msgstr ""
+
+#: includes/translations.php:337
+msgid "Please provide Color Code"
+msgstr ""
+
+#: includes/translations.php:338
+msgid "Blocked For"
+msgstr ""
+
+#: includes/translations.php:339
+msgid ""
+"In this field, you would need to choose a time duration for which you would "
+"like to block IP Address"
+msgstr ""
+
+#: includes/translations.php:347
+msgid "Never"
+msgstr ""
+
+#: includes/translations.php:348
+msgid "Clear"
+msgstr ""
+
+#: includes/translations.php:349
+msgid "Comments"
+msgstr ""
+
+#: includes/translations.php:350
+msgid "Please provide Comments"
+msgstr ""
+
+#: includes/translations.php:351
+msgid "Start Date"
+msgstr ""
+
+#: includes/translations.php:352
+msgid "End Date"
+msgstr ""
+
+#: includes/translations.php:353
+msgid "Bulk Action"
+msgstr ""
+
+#: includes/translations.php:354
+msgid "Apply"
+msgstr ""
+
+#: includes/translations.php:355
+msgid "Manage IP Ranges"
+msgstr ""
+
+#: includes/translations.php:356
+msgid "Blocking Options"
+msgstr ""
+
+#: includes/translations.php:357
+msgid "Manage IP Addresses"
+msgstr ""
+
+#: includes/translations.php:358
+msgid "Feature Requests"
+msgstr ""
+
+#: includes/translations.php:359
+msgid "Submit"
+msgstr ""
+
+#: includes/translations.php:360
+msgid "Resources"
+msgstr ""
+
+#: includes/translations.php:361
+msgid "HTTP User Agent"
+msgstr ""
+
+#: includes/translations.php:362
+msgid "Error Messages"
+msgstr ""
+
+#: includes/translations.php:363
+msgid "Live Traffic"
+msgstr ""
+
+#: includes/translations.php:364
+msgid "Visitor Logs"
+msgstr ""
+
+#: includes/translations.php:365
+msgid "Login Logs"
+msgstr ""
+
+#: includes/translations.php:366
+msgid "Delete"
+msgstr ""
+
+#: includes/translations.php:367
+msgid "Block IP Address"
+msgstr ""
+
+#: includes/translations.php:368
+msgid "Please provide Start Date"
+msgstr ""
+
+#: includes/translations.php:369
+msgid "Please provide End Date"
+msgstr ""
+
+#: includes/translations.php:370
+msgid "Captcha Setup"
+msgstr ""
+
+#: includes/translations.php:371
+msgid "Alert Setup"
+msgstr ""
+
+#: includes/translations.php:372
+msgid "Logs"
+msgstr ""
+
+#: includes/translations.php:373 includes/translations.php:397
+msgid "Advance Security"
+msgstr ""
+
+#: includes/translations.php:374 includes/translations.php:396
+msgid "Country Blocks"
+msgstr ""
+
+#: includes/translations.php:375
+msgid "Email Templates"
+msgstr ""
+
+#: includes/translations.php:376
+msgid "Other Settings"
+msgstr ""
+
+#: includes/translations.php:377
+msgid "Roles & Capabilities"
+msgstr ""
+
+#: includes/translations.php:378
+msgid "System Information"
+msgstr ""
+
+#: includes/translations.php:379
+msgid "Full Control"
+msgstr ""
+
+#: includes/translations.php:380
+msgid "Captcha Booster"
+msgstr ""
+
+#: includes/translations.php:381
+msgid "Captcha Type"
+msgstr ""
+
+#: includes/translations.php:382
+msgid "Display Settings"
+msgstr ""
+
+#: includes/translations.php:383
+msgid "IP Ranges"
+msgstr ""
+
+#: includes/translations.php:384
+msgid "Enable"
+msgstr ""
+
+#: includes/translations.php:385
+msgid "Disable"
+msgstr ""
+
+#: includes/translations.php:386
+msgid "Save Changes"
+msgstr ""
+
+#: includes/translations.php:387
+msgid "Subject"
+msgstr ""
+
+#: includes/translations.php:388
+msgid "Please provide Subject"
+msgstr ""
+
+#: includes/translations.php:389
+msgid "Blocked Date & Time"
+msgstr ""
+
+#: includes/translations.php:390
+msgid "Release Date & Time"
+msgstr ""
+
+#: includes/translations.php:391
+msgid "User Name"
+msgstr ""
+
+#: includes/translations.php:392
+msgid "Date & Time"
+msgstr ""
+
+#: includes/translations.php:393
+msgid "Action"
+msgstr ""
+
+#: includes/translations.php:394
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+
+#: includes/translations.php:395
+msgid "General Settings"
+msgstr ""
+
+#: includes/translations.php:398
+msgid "Upgrade"
+msgstr ""
+
+#: includes/translations.php:399
+msgid "Premium Edition"
+msgstr ""
+
+#: includes/translations.php:402
+msgid "Available Countries"
+msgstr ""
+
+#: includes/translations.php:403
+msgid "List of all Countries"
+msgstr ""
+
+#: includes/translations.php:404
+msgid "Add >>"
+msgstr ""
+
+#: includes/translations.php:405
+msgid "<< Remove"
+msgstr ""
+
+#: includes/translations.php:406
+msgid "Blocked Countries"
+msgstr ""
+
+#: includes/translations.php:407
+msgid "List of all Countries being Blocked"
+msgstr ""
+
+#: includes/translations.php:408
+msgid "Block"
+msgstr ""

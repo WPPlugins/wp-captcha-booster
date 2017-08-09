@@ -1,0 +1,2082 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Captcha Booster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-13 14:15+0530\n"
+"PO-Revision-Date: 2017-04-13 14:17+0530\n"
+"Last-Translator: Tech Banker\n"
+"Language-Team: Brazilian Portuguese\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 18633\n"
+"X-Loco-Api-Version: 1.0.15 20161124-2\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: includes/translations-frontend.php:12 includes/translations.php:340
+msgid "1 Hour"
+msgstr "1 Hora"
+
+#: includes/translations-frontend.php:13 includes/translations.php:341
+msgid "12 Hours"
+msgstr "12 Horas"
+
+#: includes/translations-frontend.php:14 includes/translations.php:342
+msgid "24 Hours"
+msgstr "24 Horas"
+
+#: includes/translations-frontend.php:15 includes/translations.php:343
+msgid "48 Hours"
+msgstr "48 Horas"
+
+#: includes/translations-frontend.php:16 includes/translations.php:344
+msgid "1 Week"
+msgstr "1 Semana"
+
+#: includes/translations-frontend.php:17 includes/translations.php:345
+msgid "1 Month"
+msgstr "1 Mês"
+
+#: includes/translations-frontend.php:18 includes/translations.php:346
+msgid "Permanently"
+msgstr "Permanentemente"
+
+#: includes/translations-frontend.php:19
+msgid "for "
+msgstr "para"
+
+#: includes/translations-frontend.php:22
+msgid "Enter Captcha Here"
+msgstr "Digite Captcha aqui"
+
+#: includes/translations-frontend.php:24
+msgid "Arrange in Ascending Order"
+msgstr "Organizar em ordem crescente"
+
+#: includes/translations-frontend.php:25
+msgid "Arrange in Descending Order"
+msgstr "Organizar em Ordem Descendente"
+
+#: includes/translations-frontend.php:26
+msgid " (Use ',' to separate the numbers) :"
+msgstr "(Use ',' para separar os números):"
+
+#: includes/translations-frontend.php:27
+msgid "Which Number is Larger "
+msgstr "Qual número é maior"
+
+#: includes/translations-frontend.php:28
+msgid "Which Number is Smaller "
+msgstr "Qual número é menor"
+
+#: includes/translations-frontend.php:29
+msgid "ERROR"
+msgstr "ERRO"
+
+#: includes/translations-frontend.php:30
+msgid " or "
+msgstr "ou"
+
+#: includes/translations-frontend.php:31
+msgid "Encryption password is not set"
+msgstr "Encryption password is not set"
+
+#: includes/translations-frontend.php:32
+msgid "Decryption password is not set"
+msgstr "Senha de descriptografia não definida"
+
+#: includes/translations-frontend.php:33
+msgid "Solve"
+msgstr "Resolver"
+
+#: includes/translations.php:32
+msgid ""
+"This feature is available only in Premium Editions! <br> Kindly Purchase to "
+"unlock it!"
+msgstr ""
+"Este recurso está disponível somente em Edições Premium! <br> Por gentileza, "
+"compre para desbloqueá-lo!"
+
+#: includes/translations.php:33
+msgid "Captcha Type has been saved Successfully"
+msgstr "Captcha foram gravadas com sucesso"
+
+#: includes/translations.php:34
+msgid "Success!"
+msgstr "Sucesso!"
+
+#: includes/translations.php:35
+msgid "Error Messages have been saved Successfully"
+msgstr "Mensagens de erro foram gravadas com sucesso"
+
+#: includes/translations.php:36
+msgid "Display Settings have been saved Successfully"
+msgstr "Tela de Ajustes foram gravadas com sucesso"
+
+#: includes/translations.php:37
+msgid "Alert Setup has been saved Successfully"
+msgstr "Ajustes de Alerta foram gravadas com sucesso"
+
+#: includes/translations.php:38
+msgid "Your request email has been sent Successfully"
+msgstr "Seu e-mail de solicitação foi enviado com sucesso"
+
+#: includes/translations.php:39
+msgid "Blocking Options have been saved Successfully"
+msgstr "Opções de Boqueio foram gravadas com sucesso"
+
+#: includes/translations.php:40
+msgid "IP Address has been blocked Successfully"
+msgstr "Endereços de IP foram bloqueados com sucesso"
+
+#: includes/translations.php:41
+msgid "IP Range has been blocked Successfully"
+msgstr "Intervalo de IP foram bloqueados com sucesso"
+
+#: includes/translations.php:42
+msgid "IP Address has been deleted Successfully"
+msgstr "Endereços de IP foram apagados com sucesso"
+
+#: includes/translations.php:43
+msgid "IP Range has been deleted Successfully"
+msgstr "Intervalo de IPs foram apagados com sucesso"
+
+#: includes/translations.php:44
+msgid "Other Settings have been saved Successfully"
+msgstr "Outras definições foram gravados com sucesso"
+
+#: includes/translations.php:45
+msgid "Error Logs has been cleared Successfully"
+msgstr "Logs de erro bi apagada com sucesso"
+
+#: includes/translations.php:46
+msgid "Please provide Number between 1 to 100"
+msgstr "Por favor, forneça um número entre 1 e 100"
+
+#: includes/translations.php:47
+msgid "Please provide Number between 1 to 10"
+msgstr "Por favor, forneça um número entre 1 e 10"
+
+#: includes/translations.php:48
+msgid "Error Message"
+msgstr "Mensagem de Erro"
+
+#: includes/translations.php:49
+msgid "Please choose at least one Arithmetic action!"
+msgstr "Por favor, escolha pelo menos uma ação aritmética!"
+
+#: includes/translations.php:50
+msgid "IP Address"
+msgstr "Endereço IP"
+
+#: includes/translations.php:51
+msgid "Location"
+msgstr "Localização"
+
+#: includes/translations.php:52
+msgid "Latitude"
+msgstr "Latitude"
+
+#: includes/translations.php:53
+msgid "Longitude"
+msgstr "Longitude"
+
+#: includes/translations.php:54
+msgid "N/A"
+msgstr "N/A"
+
+#: includes/translations.php:55
+msgid "Are you sure you want to delete ?"
+msgstr "Tem certeza que deseja excluir?"
+
+#: includes/translations.php:56
+msgid "Please provide valid IP Range"
+msgstr "Por favor, forneça um intervalo de IP válido"
+
+#: includes/translations.php:57
+msgid "Please provide valid IP Address"
+msgstr "Por favor forneça um endereço IP válido"
+
+#: includes/translations.php:58
+msgid "This IP Address has been already blocked!"
+msgstr "Este endereço de IP já foi bloqueado!"
+
+#: includes/translations.php:59
+msgid "Notification!"
+msgstr "Notificação!"
+
+#: includes/translations.php:60
+msgid "This IP Range has been already blocked!"
+msgstr "Este intervalo de IP já foi bloqueado!"
+
+#: includes/translations.php:63
+msgid ""
+"In this field, you would need to choose between different types of captcha. "
+"You could choose between Text Captcha and Logical Captcha"
+msgstr ""
+"Neste campo, você precisaria escolher entre diferentes tipos de captcha. "
+"Você poderia escolher entre Captcha Texto e Lógica Captcha"
+
+#: includes/translations.php:64
+msgid "Text Captcha"
+msgstr "Captcha de texto"
+
+#: includes/translations.php:65
+msgid "Logical Captcha"
+msgstr "Captcha de lógica"
+
+#: includes/translations.php:66
+msgid "Captcha Characters"
+msgstr "Captcha de caracteres"
+
+#: includes/translations.php:67
+msgid ""
+"In this field, you would need to provide number of characters to be used for "
+"creating a captcha control"
+msgstr ""
+"Neste campo, você precisa fornecer o número de caracteres a ser usado para "
+"criar ..."
+
+#: includes/translations.php:68
+msgid "Please provide Captcha Characters"
+msgstr "Por favor, forneça os caracteres de Captcha"
+
+#: includes/translations.php:69
+msgid "Captcha String Type"
+msgstr "Captcha tipo corda"
+
+#: includes/translations.php:70
+msgid ""
+"In this field, you would need to choose whether to create captcha control "
+"with Alphabets and Digits Only Alphabets Only Digits"
+msgstr ""
+"Neste campo, você precisará escolher se deseja criar o controle captcha com "
+"alfabetos e dígitos, somente alfabeto ou somente dígitos"
+
+#: includes/translations.php:71
+msgid "Alphabets And Digits"
+msgstr "Alfabetos e Dígitos"
+
+#: includes/translations.php:72
+msgid "Only Alphabets"
+msgstr "Somente Alfabetos"
+
+#: includes/translations.php:73
+msgid "Only Digits"
+msgstr "Somente Digitos"
+
+#: includes/translations.php:74
+msgid "Text Case"
+msgstr "Maiúsculas e minúsculas"
+
+#: includes/translations.php:75
+msgid ""
+"In this field, you would need to choose whether to create captcha control "
+"with Upper Case Lower Case Random"
+msgstr ""
+"Neste campo, você precisará escolher se deseja criar o controle captcha com "
+"maiúsculas ou aleatório"
+
+#: includes/translations.php:76
+msgid "Upper Case"
+msgstr "Maiúscula"
+
+#: includes/translations.php:77
+msgid "Lower Case"
+msgstr "Minúscula"
+
+#: includes/translations.php:78
+msgid "Random"
+msgstr "Aleatório"
+
+#: includes/translations.php:79
+msgid "Case Sensitive"
+msgstr "Sensível a maiúsculas e minúsculas"
+
+#: includes/translations.php:80
+msgid ""
+"In this field, you would need to choose whether to create captcha control "
+"with Case Sensitive or vice versa"
+msgstr ""
+"Neste campo, você precisará escolher se deseja criar o controle captcha "
+"sensível a maiúsculas e minúsculas ou vice versa"
+
+#: includes/translations.php:81
+msgid "Captcha Width"
+msgstr "Tamanho do Captcha"
+
+#: includes/translations.php:82
+msgid ""
+"In this field, you would need to provide a width of captcha control in pixels"
+msgstr ""
+"Neste campo, você precisa fornecer um tamanho de controle de captcha em "
+"pixels"
+
+#: includes/translations.php:83
+msgid "Please provide Captcha Width"
+msgstr "Por favor, forneça o tamanho do Capctha"
+
+#: includes/translations.php:84
+msgid "Captcha Height"
+msgstr "Altura Captcha"
+
+#: includes/translations.php:85
+msgid ""
+"In this field, you would need to provide a height of captcha control in "
+"pixels"
+msgstr ""
+"Neste campo, você precisaria fornecer uma altura de controle de captcha em "
+"pixels"
+
+#: includes/translations.php:86
+msgid "Please provide Captcha Height"
+msgstr "Por favor forneça a Altura Captcha"
+
+#: includes/translations.php:87
+msgid "Captcha Background"
+msgstr "Background Captcha"
+
+#: includes/translations.php:88
+msgid ""
+"In this field, you would need to choose different backgrounds for captcha "
+"control"
+msgstr ""
+"Neste campo, você precisaria escolher diferentes backgrounds para o controle "
+"de captcha"
+
+#: includes/translations.php:89
+msgid "Pattern 1"
+msgstr "Padrão 1"
+
+#: includes/translations.php:90
+msgid "Pattern 2"
+msgstr "Padrão 2"
+
+#: includes/translations.php:91
+msgid "Pattern 3"
+msgstr "Padrão 3"
+
+#: includes/translations.php:92
+msgid "Pattern 4"
+msgstr "Padrão 4"
+
+#: includes/translations.php:93
+msgid "Pattern 5"
+msgstr "Padrão 5"
+
+#: includes/translations.php:94
+msgid "Pattern 6"
+msgstr "Padrão 6"
+
+#: includes/translations.php:95
+msgid "Pattern 7"
+msgstr "Padrão 7"
+
+#: includes/translations.php:96
+msgid "Pattern 8"
+msgstr "Padrão 8"
+
+#: includes/translations.php:97
+msgid "Pattern 9"
+msgstr "Padrão 9"
+
+#: includes/translations.php:98
+msgid "Pattern 10"
+msgstr "Padrão 10"
+
+#: includes/translations.php:99
+msgid "Pattern 11"
+msgstr "Padrão 11"
+
+#: includes/translations.php:100
+msgid "Pattern 12"
+msgstr "Padrão 12"
+
+#: includes/translations.php:101
+msgid "Pattern 13"
+msgstr "Padrão 13"
+
+#: includes/translations.php:102
+msgid "Pattern 14"
+msgstr "Padrão 14"
+
+#: includes/translations.php:103
+msgid "Pattern 15"
+msgstr "Padrão 15"
+
+#: includes/translations.php:104
+msgid "Pattern 16"
+msgstr "Padrão 16"
+
+#: includes/translations.php:105
+msgid "Pattern 17"
+msgstr "Padrão 17"
+
+#: includes/translations.php:106
+msgid "Pattern 18"
+msgstr "Padrão 18"
+
+#: includes/translations.php:107
+msgid "Text Style"
+msgstr "Estilo do Texto"
+
+#: includes/translations.php:108
+msgid ""
+"In this field, you would need to set Font, Size and Font Color for captcha "
+"control"
+msgstr ""
+"Neste campo, você precisa escolher a fonte, tamanho e cor da fonte para "
+"controle do captcha"
+
+#: includes/translations.php:109
+msgid "Text Font"
+msgstr "Fonte"
+
+#: includes/translations.php:110
+msgid "In this field, you would need to choose Font Type for captcha control"
+msgstr "Neste campo, você precisa escolher a fonte para o controle captcha"
+
+#: includes/translations.php:111
+msgid "Border Style"
+msgstr "Estilo de borda"
+
+#: includes/translations.php:112
+msgid ""
+"In this field, you would need to choose Border Color, Border Size and Border "
+"Type for captcha control"
+msgstr ""
+"Neste campo, você precisará escolher a cor da borda, o tamanho da borda e o "
+"tipo de borda do controle captcha"
+
+#: includes/translations.php:113
+msgid "Solid"
+msgstr "Sólido"
+
+#: includes/translations.php:114
+msgid "Dotted"
+msgstr "Pontilhado"
+
+#: includes/translations.php:115
+msgid "Dashed"
+msgstr "Tracejado"
+
+#: includes/translations.php:116
+msgid "Lines"
+msgstr "Linhas"
+
+#: includes/translations.php:117
+msgid ""
+"In this field, you would need to provide number of lines for captcha control"
+msgstr ""
+"Neste campo, você precisa fornecer um número de linhas para o controle "
+"captcha"
+
+#: includes/translations.php:118
+msgid "Please provide number of Lines"
+msgstr "Por favor, forneça o número de linhas"
+
+#: includes/translations.php:119
+msgid "Lines Color"
+msgstr "Cor das linhas"
+
+#: includes/translations.php:120
+msgid "In this field, you would need to choose Line Color for captcha control"
+msgstr ""
+"Neste campo, você precisa escolher a cor da linha para o controle captcha"
+
+#: includes/translations.php:121
+msgid "Noise level"
+msgstr "Nível de ruído"
+
+#: includes/translations.php:122
+msgid "In this field, you would need to provide Noise in captcha control"
+msgstr "Neste campo, você precisa fornecer o ruído no controle captcha"
+
+#: includes/translations.php:123
+msgid "Please provide Noise Level"
+msgstr "Por favor, forneça o nível de ruído"
+
+#: includes/translations.php:124
+msgid "Noise Color"
+msgstr "Cor do ruído"
+
+#: includes/translations.php:125
+msgid "In this field, you would need to choose Noise Color for captcha control"
+msgstr ""
+"Neste campo, você precisa escolher a cor do ruído para o controle captcha"
+
+#: includes/translations.php:126
+msgid "Text Transparency %"
+msgstr "Transparência do texto %"
+
+#: includes/translations.php:127
+msgid ""
+"In this field, you would need to provide Text Transparency for captcha "
+"control"
+msgstr ""
+"Neste campo, você precisa fornecer uma transparência de texto para o "
+"controle captcha"
+
+#: includes/translations.php:128
+msgid "Please provide Text Transparency"
+msgstr "Por favor, forneça a transparência do texto"
+
+#: includes/translations.php:129
+msgid "Signature Text"
+msgstr "Texto da assinatura"
+
+#: includes/translations.php:130
+msgid ""
+"In this field, you would need to provide Signature Text for captcha control"
+msgstr ""
+"Neste campo, você deve fornecer o texto da assinatura para o controle captcha"
+
+#: includes/translations.php:131
+msgid "Please provide Signature Text"
+msgstr "Por favor, forneça o texto da assinatura"
+
+#: includes/translations.php:132
+msgid "Signature Style"
+msgstr "Estilo da assinatura"
+
+#: includes/translations.php:133
+msgid ""
+"In this field, you would need to choose Signature Style and Signature Color "
+"for captcha control"
+msgstr ""
+"Neste campo, você precisará escolher o estilo de assinatura e a cor de "
+"assinatura para o controle captcha"
+
+#: includes/translations.php:134
+msgid "Signature Font"
+msgstr "Fonte da assinatura"
+
+#: includes/translations.php:135
+msgid "In this field, you would need to choose Font Family for captcha control"
+msgstr ""
+"Neste campo, você deve escolher a família da fonte para o controle captcha"
+
+#: includes/translations.php:136
+msgid "Text Shadow Color"
+msgstr "Cor da sombra do texto"
+
+#: includes/translations.php:137
+msgid ""
+"In this field, you would need to choose Text Shadow Color for captcha control"
+msgstr ""
+"Neste campo, você deve escolher a cor da sombra do texto para o controle "
+"captcha"
+
+#: includes/translations.php:138
+msgid "Mathematical Operations"
+msgstr "Operações matemáticas"
+
+#: includes/translations.php:139
+msgid ""
+"In this field, you would need to choose whether to create a Captcha control "
+"with Arithmetic Relational Arrange Order"
+msgstr ""
+"Neste campo, você precisará escolher se deseja criar o controle captcha com "
+"aritmética relacional ou organização em ordem"
+
+#: includes/translations.php:140
+msgid "Arithmetic"
+msgstr "Aritmético"
+
+#: includes/translations.php:141
+msgid "Relational"
+msgstr "Relacional"
+
+#: includes/translations.php:142
+msgid "Arithmetic Actions"
+msgstr "Ações aritméticas"
+
+#: includes/translations.php:143
+msgid "Addition(+)"
+msgstr "Adição (+)"
+
+#: includes/translations.php:144
+msgid "Subtraction(-)"
+msgstr "Subtração (-)"
+
+#: includes/translations.php:145
+msgid "Multiplication(*)"
+msgstr "Multiplicação (*)"
+
+#: includes/translations.php:146
+msgid "Division(/)"
+msgstr "Divisão(/)"
+
+#: includes/translations.php:147
+msgid ""
+"In this field, you would need to choose specific arithmetic actions to "
+"create a captcha control"
+msgstr ""
+"Neste campo, você precisará escolher ações aritméticas específicas para "
+"criar um controle captcha"
+
+#: includes/translations.php:148
+msgid "Relational Actions"
+msgstr "Ações Relacionais"
+
+#: includes/translations.php:149
+msgid ""
+"In this field, you would need to choose specific relational actions to "
+"create a captcha control"
+msgstr ""
+"Neste campo, você precisará escolher ações relacionais específicas para "
+"criar um controle captcha"
+
+#: includes/translations.php:150
+msgid "Largest Number"
+msgstr "Maior número"
+
+#: includes/translations.php:151
+msgid "Smallest Number"
+msgstr "Menor número"
+
+#: includes/translations.php:152
+msgid "Arrange Order"
+msgstr "Organizar ordem"
+
+#: includes/translations.php:153
+msgid ""
+"In this field, you would need to choose the specific arranging order for "
+"captcha"
+msgstr ""
+"Neste campo, você deve escolher uma ordem de arranjo específica para captcha"
+
+#: includes/translations.php:154
+msgid "Ascending Order"
+msgstr "Ordem Ascendente"
+
+#: includes/translations.php:155
+msgid "Descending Order"
+msgstr "Ordem decrescente"
+
+#: includes/translations.php:158
+msgid ""
+"If you would like that plugin would be automatically updated whenever there "
+"is a new version available, then choose enable or vice-versa from the drop-"
+"down"
+msgstr ""
+"Se você quiser que o plugin seja atualizado automaticamente sempre que "
+"houver uma nova versão disponível, escolha Ativar ou vice-versa no menu "
+"suspenso"
+
+#: includes/translations.php:159
+msgid "Automatic Plugin Updates"
+msgstr "Atualizações automáticas de plugin"
+
+#: includes/translations.php:160
+msgid "Live Traffic Monitoring"
+msgstr "Monitoramento de tráfego ao vivo"
+
+#: includes/translations.php:161
+msgid ""
+"If you would like to monitor details of user who are currently visiting the "
+"website and pages visited by them, then choose enable or vice-versa from the "
+"drop-down"
+msgstr ""
+"Se você quiser monitorar os detalhes do usuário que está visitando o site e "
+"as páginas visitadas por eles, selecione Ativar ou vice-versa no menu "
+"suspenso"
+
+#: includes/translations.php:162
+msgid "Visitor Logs Monitoring"
+msgstr "Monitoramento de registros de visitantes"
+
+#: includes/translations.php:163
+msgid ""
+"If you would like to monitor details of user who are visiting the website "
+"and pages visited by them, then choose enable or vice-versa from the drop-"
+"down"
+msgstr ""
+"Se você quiser monitorar os detalhes do usuário que está visitando o site e "
+"as páginas visitadas por eles, escolha Ativar ou vice-versa no menu suspenso"
+
+#: includes/translations.php:164
+msgid "Remove Tables At Uninstall"
+msgstr "Remover tabelas ao desinstalar"
+
+#: includes/translations.php:165
+msgid ""
+"In this field, you would need to choose a specific option whether to remove "
+"tables at Uninstall"
+msgstr ""
+"Neste campo, você precisará escolher uma opção específica para remover "
+"tabelas ao desinstalar"
+
+#: includes/translations.php:166
+msgid "How does Captcha Booster get IPs"
+msgstr "Como é de Captcha impulsionador obter IPs"
+
+#: includes/translations.php:167
+msgid ""
+"In this field, you would need to choose a specific option  for how does "
+"Captcha Booster get IPs"
+msgstr ""
+"Neste campo, você precisa escolher uma opção específica para como é de "
+"Captcha impulsionador obter IPs"
+
+#: includes/translations.php:168
+msgid ""
+"Let Captcha Booster use the most secure method to get visitor IP address. "
+"Prevents spoofing and works with most sites."
+msgstr ""
+"Deixe de Captcha mais seguro impulsionador método Dùng para obter visitante "
+"endereço IP. Impede a falsificação e funciona com a maioria dos sites."
+
+#: includes/translations.php:169
+msgid ""
+"Use PHP's built in REMOTE_ADDR and don't use anything else. Very secure if "
+"this is compatible with your site."
+msgstr ""
+"Use PHP é construído em REMOTE_ADDR qualquer outra coisa e não use. Isto é "
+"muito seguro se compatível com o seu site Flickr."
+
+#: includes/translations.php:170
+msgid ""
+"Use the X-Forwarded-For HTTP header. Only use if you have a front-end proxy "
+"or spoofing may result."
+msgstr ""
+"Use o cabeçalho HTTP X-transmitido-For. Só use se você tem um proxy front-"
+"end ou o resultado de costura spoofing."
+
+#: includes/translations.php:171
+msgid ""
+"Use the X-Real-IP HTTP header. Only use if you have a front-end proxy or "
+"spoofing may result."
+msgstr ""
+"Use o cabeçalho HTTP X-Real-IP. Só use se você tem um proxy front-end ou o "
+"resultado de costura spoofing."
+
+#: includes/translations.php:172
+msgid ""
+"Use the Cloudflare 'CF-Connecting-IP' HTTP header to get a visitor IP. Only "
+"use if you're using Cloudflare."
+msgstr ""
+"Use cabeçalho HTTP-IP CF-Conectando\" o CloudFlare' para obter um visitante "
+"IP. Só use se você estiver usando CloudFlare."
+
+#: includes/translations.php:173
+msgid "Error Reporting"
+msgstr "Relatório de erros"
+
+#: includes/translations.php:174
+msgid ""
+"If you would like to Report your Errors in Error Logs Menu, then you would "
+"need to Choose Enable from dropdown or vice-versa"
+msgstr ""
+"Se você gostaria de relatar erros em erro Logs Menu Cua, então você precisa "
+"escolher Ativar no menu suspenso ou vice-versa"
+
+#: includes/translations.php:178
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user fails to login to your website"
+msgstr ""
+"Neste campo, você precisará escolher Ativar para enviar automaticamente um "
+"email para o Administrador quando um usuário não conseguir efetuar login no "
+"seu site"
+
+#: includes/translations.php:179
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when a user succeeds in login to your website"
+msgstr ""
+"Neste campo, você precisará escolher Ativar para enviar automaticamente um "
+"email para o Administrador quando um usuário conseguir efetuar login no seu "
+"site"
+
+#: includes/translations.php:180
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being blocked to your "
+"website"
+msgstr ""
+"Neste campo, você precisará escolher Ativar para enviar automaticamente um "
+"email para o Administrador quando um endereço de IP estiver sendo bloqueado "
+"para seu site"
+
+#: includes/translations.php:181
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Address is being unblocked to your "
+"website"
+msgstr ""
+"Neste campo, você precisará escolher Ativar para enviar automaticamente um "
+"email para o Administrador quando um endereço de IP estiver sendo "
+"desbloqueado para seu site"
+
+#: includes/translations.php:182
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being blocked to your website"
+msgstr ""
+"Neste campo, você precisará escolher Ativar para enviar automaticamente um "
+"email para o Administrador quando um intervalo de IP estiver sendo bloqueado "
+"para seu site"
+
+#: includes/translations.php:183
+msgid ""
+"In this field, you would need to choose Enable to automatically send an "
+"email to the Administrator when an IP Range is being unblocked to your "
+"website"
+msgstr ""
+"Neste campo, você precisará escolher Ativar para enviar automaticamente um "
+"email para o Administrador quando um intervalo de IP estiver sendo "
+"desbloqueado para seu site"
+
+#: includes/translations.php:184
+msgid "Email when a User Fails Login"
+msgstr "Enviar email quando o usuário errar o Login"
+
+#: includes/translations.php:185
+msgid "Email when a User Success Login"
+msgstr "Enviar email quando o usuário acertar o Login"
+
+#: includes/translations.php:186
+msgid "Email when an IP Address is Blocked"
+msgstr "Enviar email quando um endereço de IP for bloqueado"
+
+#: includes/translations.php:187
+msgid "Email when an IP Address is Unblocked"
+msgstr "Enviar email quando um endereço de IP for desbloqueado"
+
+#: includes/translations.php:188
+msgid "Email when an IP Range is Blocked"
+msgstr "Enviar email quando um intervalo de IP for bloqueado"
+
+#: includes/translations.php:189
+msgid "Email when an IP Range is Unblocked"
+msgstr "Enviar email quando um intervalo de IP for desbloqueado"
+
+#: includes/translations.php:192
+msgid ""
+"In this field, you would need to choose a template to configure Settings"
+msgstr "Neste campo, você precisa escolher um modelo para as configurações"
+
+#: includes/translations.php:193
+msgid "Choose Email Template"
+msgstr "Escolha o modelo de email"
+
+#: includes/translations.php:194
+msgid "Send To"
+msgstr "Enviar para"
+
+#: includes/translations.php:195
+msgid ""
+"In this field, you would need to provide a valid email address where you "
+"want email notification to go when a user successfully logs into your website"
+msgstr ""
+"Neste campo, você precisará fornecer um endereço de email válido onde deseja "
+"que a notificação por e-mail seja enviada quando um usuário fizer login com "
+"êxito em seu site"
+
+#: includes/translations.php:196
+msgid "Please provide Email Address"
+msgstr "Por favor, forneça o endereço de email"
+
+#: includes/translations.php:197
+msgid "Cc"
+msgstr "Cc"
+
+#: includes/translations.php:198
+msgid "In this field, you would need to provide valid Cc Email Address"
+msgstr "Neste campo, você deve fornecer um endereço de email válido para cópia"
+
+#: includes/translations.php:199
+msgid "Please provide Cc Email"
+msgstr "Forneça um email para cópia"
+
+#: includes/translations.php:200
+msgid "Bcc"
+msgstr "Cco"
+
+#: includes/translations.php:201
+msgid "In this field, you would need to provide valid Bcc Email Address"
+msgstr ""
+"Neste campo, você deve fornecer um endereço de email válido para cópia oculta"
+
+#: includes/translations.php:202
+msgid "Please provide Bcc Email"
+msgstr "Forneça um email para cópia oculta"
+
+#: includes/translations.php:203
+msgid "In this field, you would need to provide Subject for Email"
+msgstr "Neste campo você deve fornecer um assunto para o email"
+
+#: includes/translations.php:204
+msgid "Message"
+msgstr "Mensagem"
+
+#: includes/translations.php:205
+msgid "In this field, you would need to provide the Content for Email"
+msgstr "Neste campo você deve fornecer o conteúdo para o email"
+
+#: includes/translations.php:206
+msgid "Template For User Successful Login"
+msgstr "Modelo para Login bem sucedido"
+
+#: includes/translations.php:207
+msgid "Template For User Failure Login"
+msgstr "Modelo para Login mal sucedido"
+
+#: includes/translations.php:208
+msgid "Template For IP Address Blocked"
+msgstr "Modelo para endereço de IP bloqueado"
+
+#: includes/translations.php:209
+msgid "Template For IP Address Unblocked"
+msgstr "Modelo para endereço de IP desbloqueado"
+
+#: includes/translations.php:210
+msgid "Template For IP Range Blocked"
+msgstr "Modelo para intervalo de IP bloqueado"
+
+#: includes/translations.php:211
+msgid "Template For IP Range Unblocked"
+msgstr "Modelo para intervalo de IP desbloqueado"
+
+#: includes/translations.php:214
+msgid "Show Captcha Booster Menu"
+msgstr "Mostrar menu Captcha Booster"
+
+#: includes/translations.php:215
+msgid ""
+"In this field, you would need to choose a specific role who can see Sidebar "
+"Menu"
+msgstr ""
+"Neste campo você deve escolher uma função específica que pode ver a barra "
+"lateral de menu"
+
+#: includes/translations.php:216
+msgid "Administrator"
+msgstr "Administrador"
+
+#: includes/translations.php:217
+msgid "Author"
+msgstr "Autor"
+
+#: includes/translations.php:218
+msgid "Editor"
+msgstr "Editor"
+
+#: includes/translations.php:219
+msgid "Contributor"
+msgstr "Colaborador"
+
+#: includes/translations.php:220
+msgid "Subscriber"
+msgstr "Assinante"
+
+#: includes/translations.php:221
+msgid "Others"
+msgstr "Outros"
+
+#: includes/translations.php:222
+msgid "Show Captcha Booster Top Bar Menu"
+msgstr "Mostrar a barra superior de menu do Captcha Booster"
+
+#: includes/translations.php:223
+msgid ""
+"In this field, you would need to choose enable or disable option to show "
+"Captcha Booster Top Bar Menu"
+msgstr ""
+"Neste campo, você precisará escolher a opção Ativar ou Desativar para "
+"mostrar a barra superior de menu do Captcha Booster"
+
+#: includes/translations.php:224
+msgid "An Administrator Role can do the following "
+msgstr "Um administrador pode"
+
+#: includes/translations.php:225
+msgid ""
+"In this field, you would need to choose specific page available for "
+"Administrator Access"
+msgstr ""
+"Neste campo, você precisará escolher a página específica disponível para "
+"acesso de Administrador"
+
+#: includes/translations.php:226
+msgid "An Author Role can do the following "
+msgstr "Um autor pode"
+
+#: includes/translations.php:227
+msgid ""
+"In this field, you would need to choose specific page available for Author "
+"Access"
+msgstr ""
+"Neste campo você deve escolher a página específica disponível para o acesso "
+"de Autor"
+
+#: includes/translations.php:228
+msgid "An Editor Role can do the following "
+msgstr "Um editor pode"
+
+#: includes/translations.php:229
+msgid ""
+"In this field, you would need to choose specific page available for Editor "
+"Access"
+msgstr ""
+"Neste campo você deve escolher a página específica disponível para o acesso "
+"de Editor"
+
+#: includes/translations.php:230
+msgid "A Contributor Role can do the following "
+msgstr "Um contribuinte pode"
+
+#: includes/translations.php:231
+msgid ""
+"In this field, you would need to choose specific page available for "
+"Contributor Access"
+msgstr ""
+"Neste campo você deve escolher a página específica disponível para o acesso "
+"de Contribuinte"
+
+#: includes/translations.php:232
+msgid "A Subscriber Role can do the following "
+msgstr "Um assinante pode"
+
+#: includes/translations.php:233
+msgid ""
+"In this field, you would need to choose specific page available for "
+"Subscriber Access"
+msgstr ""
+"Neste campo você deve escolher a página específica disponível para o acesso "
+"de Assinante"
+
+#: includes/translations.php:234
+msgid "Other Roles can do the following "
+msgstr "Outras funções podem"
+
+#: includes/translations.php:235
+msgid "Please choose specific page available for Others Role Access."
+msgstr ""
+"Por favor, escolha a página específica disponível para o acesso de outras "
+"funções"
+
+#: includes/translations.php:236
+msgid "Please tick the appropriate capabilities for security purposes "
+msgstr "Por favor, marque as capacidades apropriadas para fins de segurança"
+
+#: includes/translations.php:237
+msgid "Only users with these capabilities can access Captcha Booster"
+msgstr "Apenas usuários com estas capacidades podem acessar o Captcha Booster"
+
+#: includes/translations.php:240
+msgid "In this field, you would be able to see start date of Login Logs"
+msgstr "Neste campo, você poderá ver a data de início dos registros de login"
+
+#: includes/translations.php:241
+msgid "In this field, you would be able to see end date of Login Logs"
+msgstr "Neste campo, você poderá ver a data final dos registros de login"
+
+#: includes/translations.php:242
+msgid "In this field, you would be able to see start date of Visitor Logs"
+msgstr ""
+"Neste campo, você poderá ver a data de início dos registros de visitante"
+
+#: includes/translations.php:243
+msgid "In this field, you would be able to see end date of Visitor Logs"
+msgstr "Neste campo, você poderá ver a data final dos registros de visitante"
+
+#: includes/translations.php:244
+msgid ""
+"Live Traffic Monitoring is Turned Off. Please go to General Setiings > Other "
+"Settings Menu to enable it"
+msgstr ""
+"Monitoramento de Tráfego vivo está desligado. Por favor, vá para "
+"Configurações Gerais> Menu Outras configurações para habilitá-lo"
+
+#: includes/translations.php:245
+msgid "Login Logs On World Map"
+msgstr "Registros de Login no mapa"
+
+#: includes/translations.php:246
+msgid "Live Traffic On World Map"
+msgstr "Tráfego ao vivo no mapa"
+
+#: includes/translations.php:247
+msgid "Visitor Logs On World Map"
+msgstr "Registros de visitantes no mapa"
+
+#: includes/translations.php:248
+msgid ""
+"Visitor Logs Monitoring is Turned Off. Please go to General Setiings > Other "
+"Settings Menu to enable it"
+msgstr ""
+"Monitoramento é desligado Visitor Logs. Por favor, vá para Configurações "
+"Gerais> Menu Outras configurações para habilitá-lo"
+
+#: includes/translations.php:249
+msgid "Details"
+msgstr "Detalhes"
+
+#: includes/translations.php:250
+msgid "Status"
+msgstr "Status"
+
+#: includes/translations.php:253
+msgid "For Maximum Login Attempts Error Message"
+msgstr "Mensagem de erro para número máximo de tentativas de login"
+
+#: includes/translations.php:254
+msgid ""
+"in this field, you would need to provide an error message to be displayed "
+"when a user exceeds maximum number of login attempts"
+msgstr ""
+"Neste campo, você precisará fornecer uma mensagem de erro a ser exibida "
+"quando um usuário excede o número máximo de tentativas de login"
+
+#: includes/translations.php:255
+msgid "Please provide Login Attempts Error Message"
+msgstr ""
+"Por favor, forneça uma mensagem de erro para número máximo de tentativas de "
+"login"
+
+#: includes/translations.php:256
+msgid "For Invalid Captcha Error Message"
+msgstr "Mensagem de erro para captcha inválido"
+
+#: includes/translations.php:257
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when an Invalid captcha is provided by a user"
+msgstr ""
+"Neste campo, você precisará fornecer uma mensagem de erro a ser exibida "
+"quando um captcha inválido for digitado por um usuário"
+
+#: includes/translations.php:258
+msgid "Please provide Invalid Captcha Error Message"
+msgstr "Por favor, forneça uma mensagem de erro para captcha inválido"
+
+#: includes/translations.php:259
+msgid "For Blocked IP Address Error Message"
+msgstr "Mensagem de erro para endereço de IP bloqueado"
+
+#: includes/translations.php:260
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when a user IP Address is blocked"
+msgstr ""
+"Neste campo, você precisará fornecer uma mensagem de erro a ser exibida "
+"quando um endereço de IP de um usuário estiver bloqueado"
+
+#: includes/translations.php:261
+msgid "Please provide Blocked IP Address Error Message"
+msgstr "Por favor, forneça uma mensagem de erro para endereço de IP bloqueado"
+
+#: includes/translations.php:262
+msgid "For Captcha Empty Error Message"
+msgstr "Mensagem de erro para captcha vazio"
+
+#: includes/translations.php:263
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when the captcha is empty"
+msgstr ""
+"Neste campo, você precisará fornecer uma mensagem de erro a ser exibida "
+"quando o captcha estiver vazio"
+
+#: includes/translations.php:264
+msgid "Please provide Empty Captcha Error Message"
+msgstr "Por favor, forneça uma mensagem de erro para captcha vazio"
+
+#: includes/translations.php:265
+msgid "For Blocked IP Range Error Message"
+msgstr "Mensagem de erro para intervalo de IP bloqueado"
+
+#: includes/translations.php:266
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when a user IP Range is blocked"
+msgstr ""
+"Neste campo, você precisará fornecer uma mensagem de erro a ser exibida "
+"quando o intervalo de IP de um usuário estiver bloqueado"
+
+#: includes/translations.php:267
+msgid "Please provide Blocked IP Range Error Message"
+msgstr "Por favor, forneça uma mensagem de erro para intervalo de IP bloqueado"
+
+#: includes/translations.php:268
+msgid "For Blocked Country Error Message"
+msgstr "Mensagem de erro para país bloqueado"
+
+#: includes/translations.php:269
+msgid ""
+"In this field, you would need to provide an error message to be displayed "
+"when a user country is blocked"
+msgstr ""
+"Neste campo, você precisará fornecer uma mensagem de erro a ser exibida "
+"quando um país de um usuário estiver bloqueado"
+
+#: includes/translations.php:270
+msgid "Please provide your Blocked Country Error Message"
+msgstr "Por favor, forneça uma mensagem de erro para país bloqueado"
+
+#: includes/translations.php:273
+msgid "Enable Captcha For"
+msgstr "Ativar captcha para"
+
+#: includes/translations.php:274
+msgid ""
+"In this field, you would need to choose specific Forms to display Captcha"
+msgstr ""
+"Neste campo, você precisará escolher Formulários específicos para exibir "
+"Captcha"
+
+#: includes/translations.php:275
+msgid "Login Form"
+msgstr "Formulário de Login"
+
+#: includes/translations.php:276
+msgid "Registration Form"
+msgstr "Formulário de Registro"
+
+#: includes/translations.php:277
+msgid "Reset Password Form"
+msgstr "Formulário de redefinição de senha"
+
+#: includes/translations.php:278
+msgid "Comment Form"
+msgstr "Formulário de comentário"
+
+#: includes/translations.php:279
+msgid "Admin Comment Form"
+msgstr "Formulário de comentário de administrador"
+
+#: includes/translations.php:280
+msgid "Hide Captcha For Registered user"
+msgstr "Esconder captcha para usuário registrado"
+
+#: includes/translations.php:281
+msgid "Captcha For WooCommerce"
+msgstr "Captcha para WooCommerce"
+
+#: includes/translations.php:282
+msgid "Captcha For Contact Form 7"
+msgstr "Captcha para Contact Form 7"
+
+#: includes/translations.php:283
+msgid "Captcha For BuddyPress Registration Form"
+msgstr "Captcha para BuddyPress Registration Form"
+
+#: includes/translations.php:286
+msgid "Thank You!"
+msgstr "Obrigado!"
+
+#: includes/translations.php:287
+msgid ""
+"Kindly fill in the below form, if you would like to suggest some features "
+"which are not in the Plugin"
+msgstr ""
+"Por gentileza, preencha o formulário abaixo se você gostaria de sugerir "
+"alguns recursos que não estão no Plugin"
+
+#: includes/translations.php:288
+msgid ""
+"If you also have any suggestion/complaint, you can use the same form below"
+msgstr ""
+"Se você também tiver qualquer sugestão/reclamação, você pode usar o mesmo "
+"formulário abaixo"
+
+#: includes/translations.php:289
+msgid "You can also write us on"
+msgstr "Você também pode nos escrever"
+
+#: includes/translations.php:290
+msgid "Your Name"
+msgstr "Seu nome"
+
+#: includes/translations.php:291
+msgid ""
+"In this field, you would need to provide your Name which will be sent along "
+"with your Feature Request"
+msgstr ""
+"Neste campo, você deve fornecer seu nome, que será enviado junto com seu "
+"Pedido de Recursos"
+
+#: includes/translations.php:292
+msgid "Please provide your Name"
+msgstr "Por favor, forneça seu nome"
+
+#: includes/translations.php:293
+msgid "Your Email"
+msgstr "Seu Email"
+
+#: includes/translations.php:294
+msgid ""
+"In this field, you would need to provide your Email which will be sent along "
+"with your Feature Request"
+msgstr ""
+"Neste campo, você precisará fornecer seu email, que será enviado juntamente "
+"com o pedido de recursos"
+
+#: includes/translations.php:295
+msgid "Please provide your Email"
+msgstr "Por favor, forneça seu email"
+
+#: includes/translations.php:296
+msgid "Feature Request"
+msgstr "Pedido de Recurso"
+
+#: includes/translations.php:297
+msgid ""
+"In this field, you would need to provide your Feature Request which will be "
+"sent along"
+msgstr ""
+"Neste campo, você precisará fornecer seu pedido de recurso que será enviada "
+"junto"
+
+#: includes/translations.php:298
+msgid "Please provide your Feature Request"
+msgstr "Por favor, forneça o pedido de recurso"
+
+#: includes/translations.php:299
+msgid "Send Request"
+msgstr "Enviar solicitação"
+
+#: includes/translations.php:302
+msgid "Error Logs"
+msgstr "Logs de erro"
+
+#: includes/translations.php:303
+msgid "Output"
+msgstr "saída"
+
+#: includes/translations.php:304
+msgid "Download Error Log"
+msgstr "Baixar Log Erro"
+
+#: includes/translations.php:305
+msgid "Clear Error Log"
+msgstr "Log de erro clara"
+
+#: includes/translations.php:306
+msgid "In this field,you would be able to see all PHP Errors"
+msgstr "Neste campo, você veria todos os erros PHP"
+
+#: includes/translations.php:309
+msgid "Auto IP Block"
+msgstr "Bloqueio automático de IP"
+
+#: includes/translations.php:310
+msgid ""
+"In this field, you would need to choose Enable to automatically block an IP "
+"Address when a user exceeds their maximum login attempts"
+msgstr ""
+"Neste campo, você precisará escolher Ativar para bloquear automaticamente um "
+"endereço IP quando um usuário exceder o máximo de tentativas de login"
+
+#: includes/translations.php:311
+msgid "Maximum Login Attempts in a Day"
+msgstr "máximo de tentativas de login diário"
+
+#: includes/translations.php:312
+msgid ""
+"In this field, you would need to provide the maximum number of login "
+"attempts in a day. If a user exceeds its login attempts, then their IP "
+"Address will be automatically blocked"
+msgstr ""
+"Neste campo, você precisa fornecer o número máximo de tentativas de login "
+"diário. Se um usuário exceder suas tentativas de login, seu endereço IP será "
+"automaticamente bloqueado"
+
+#: includes/translations.php:313
+msgid "Please provide Maximum Login Attempts"
+msgstr "Por favor, forneça o número máximo de tentativas de login"
+
+#: includes/translations.php:316
+msgid ""
+"In this field, you would need to provide a valid IP Address which you would "
+"like to block, so that  blocked user will not be able to access website"
+msgstr ""
+"Neste campo, você precisará fornecer um endereço IP válido que você gostaria "
+"de bloquear, para que o usuário bloqueado não seja capaz de acessar o site"
+
+#: includes/translations.php:317
+msgid "View Blocked IP Addresses"
+msgstr "Ver endereços de IP bloqueados"
+
+#: includes/translations.php:318
+msgid ""
+"In this field, you would need to provide start date of Blocked IP Addresses"
+msgstr ""
+"Neste campo, você precisará fornecer a data de início dos endereços IP "
+"bloqueados"
+
+#: includes/translations.php:319
+msgid ""
+"In this field, you would need to provide end date of Blocked IP Addresses"
+msgstr ""
+"Neste campo, você precisará fornecer a data de término dos endereços IP "
+"bloqueados"
+
+#: includes/translations.php:320
+msgid ""
+" In this field, you would need to provide comments regarding the reason for "
+"blocking this IP Address"
+msgstr ""
+"Neste campo, você precisará fornecer comentários sobre o motivo do bloqueio "
+"deste endereço IP"
+
+#: includes/translations.php:323
+msgid "Start IP Range"
+msgstr "Início do intervalo de IP"
+
+#: includes/translations.php:324
+msgid ""
+"In this field, you would need to provide a valid Start IP Ranges which you "
+"would like to block"
+msgstr ""
+"Neste campo, você precisará fornecer uma início de intervalo de IP válido "
+"que você gostaria de bloquear"
+
+#: includes/translations.php:325
+msgid "Please provide Start IP Range"
+msgstr "Por favor, forneça o início do intervalo de IP"
+
+#: includes/translations.php:326
+msgid "End IP Range"
+msgstr "Final do intervalo de IP"
+
+#: includes/translations.php:327
+msgid ""
+"In this field, you would need to provide a valid End IP Ranges which you "
+"would like to block"
+msgstr ""
+"Neste campo, você precisará fornecer uma final de intervalo de IP válido que "
+"você gostaria de bloquear"
+
+#: includes/translations.php:328
+msgid "Please provide End IP Range"
+msgstr "Por favor, forneça o final do intervalo de IP"
+
+#: includes/translations.php:329
+msgid ""
+"In this field, you would need to choose a time duration for which you would "
+"like to block IP Ranges"
+msgstr ""
+"Neste campo, você precisa escolher o tempo que gostaria de bloquear os "
+"intervalos de IP"
+
+#: includes/translations.php:330
+msgid ""
+"In this field, you would need to provide comments regarding the reason for "
+"blocking this IP Ranges"
+msgstr ""
+"Neste campo, você precisará fornecer comentários sobre o motivo do bloqueio "
+"do intervalo de IP"
+
+#: includes/translations.php:331
+msgid "Block IP Range"
+msgstr "Bloqueio de intervalo de IP"
+
+#: includes/translations.php:332
+msgid "View Blocked IP Ranges"
+msgstr "Ver intervalos de IP bloqueados"
+
+#: includes/translations.php:333
+msgid "In this field, you would need to provide start date of Blocked IP Range"
+msgstr ""
+"Neste campo, você precisará fornecer a data de início do intervalo de IP "
+"bloqueado"
+
+#: includes/translations.php:334
+msgid "In this field, you would need to provide end date of Blocked IP Range"
+msgstr ""
+"Neste campo, você precisará fornecer a data de término do intervalo de IP "
+"bloqueado"
+
+#: includes/translations.php:337
+msgid "Please provide Color Code"
+msgstr "Por favor informe o Código da Cor"
+
+#: includes/translations.php:338
+msgid "Blocked For"
+msgstr "Bloqueado Para"
+
+#: includes/translations.php:339
+msgid ""
+"In this field, you would need to choose a time duration for which you would "
+"like to block IP Address"
+msgstr "Neste campo, você precisa escolher uma duração de tempo "
+
+#: includes/translations.php:347
+msgid "Never"
+msgstr "Nunca"
+
+#: includes/translations.php:348
+msgid "Clear"
+msgstr "Limpar"
+
+#: includes/translations.php:349
+msgid "Comments"
+msgstr "Comentários"
+
+#: includes/translations.php:350
+msgid "Please provide Comments"
+msgstr "Por favor, forneça comentários"
+
+#: includes/translations.php:351
+msgid "Start Date"
+msgstr "Data Inicial"
+
+#: includes/translations.php:352
+msgid "End Date"
+msgstr "Data final"
+
+#: includes/translations.php:353
+msgid "Bulk Action"
+msgstr "Ação em massa"
+
+#: includes/translations.php:354
+msgid "Apply"
+msgstr "Aplicar"
+
+#: includes/translations.php:355
+msgid "Manage IP Ranges"
+msgstr "Gerenciar intervalos de IP"
+
+#: includes/translations.php:356
+msgid "Blocking Options"
+msgstr "Opções de Bloqueio"
+
+#: includes/translations.php:357
+msgid "Manage IP Addresses"
+msgstr "Gerenciar Endereços IP"
+
+#: includes/translations.php:358
+msgid "Feature Requests"
+msgstr "Pedidos de Recurso"
+
+#: includes/translations.php:359
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/translations.php:360
+msgid "Resources"
+msgstr "Recursos"
+
+#: includes/translations.php:361
+msgid "HTTP User Agent"
+msgstr "Agente de usuário HTTP"
+
+#: includes/translations.php:362
+msgid "Error Messages"
+msgstr "Mensagens de Erro"
+
+#: includes/translations.php:363
+msgid "Live Traffic"
+msgstr "Tráfego ai Vico"
+
+#: includes/translations.php:364
+msgid "Visitor Logs"
+msgstr "Logs de Visitantes"
+
+#: includes/translations.php:365
+msgid "Login Logs"
+msgstr "Logs de Login"
+
+#: includes/translations.php:366
+msgid "Delete"
+msgstr "Excluir"
+
+#: includes/translations.php:367
+msgid "Block IP Address"
+msgstr "Bloqueas endereço de IP"
+
+#: includes/translations.php:368
+msgid "Please provide Start Date"
+msgstr "Por favor, forneça a data de início"
+
+#: includes/translations.php:369
+msgid "Please provide End Date"
+msgstr "Por favor, forneça a data de término"
+
+#: includes/translations.php:370
+msgid "Captcha Setup"
+msgstr "Configuração de Captcha"
+
+#: includes/translations.php:371
+msgid "Alert Setup"
+msgstr "Ajustes de Alerta"
+
+#: includes/translations.php:372
+msgid "Logs"
+msgstr "Logs"
+
+#: includes/translations.php:373 includes/translations.php:397
+msgid "Advance Security"
+msgstr "Segurança Avançada"
+
+#: includes/translations.php:374 includes/translations.php:396
+msgid "Country Blocks"
+msgstr "Países Bloqueados"
+
+#: includes/translations.php:375
+msgid "Email Templates"
+msgstr "Modelos de Emails"
+
+#: includes/translations.php:376
+msgid "Other Settings"
+msgstr "Outras definições"
+
+#: includes/translations.php:377
+msgid "Roles & Capabilities"
+msgstr "Regras & Compatibilidades"
+
+#: includes/translations.php:378
+msgid "System Information"
+msgstr "Informações do Sistema"
+
+#: includes/translations.php:379
+msgid "Full Control"
+msgstr "Controle Total"
+
+#: includes/translations.php:380
+msgid "Captcha Booster"
+msgstr "Captcha Booster"
+
+#: includes/translations.php:381
+msgid "Captcha Type"
+msgstr "tipo"
+
+#: includes/translations.php:382
+msgid "Display Settings"
+msgstr "Ajustes de Visualização"
+
+#: includes/translations.php:383
+msgid "IP Ranges"
+msgstr "Intervalos de IP"
+
+#: includes/translations.php:384
+msgid "Enable"
+msgstr "Ativa"
+
+#: includes/translations.php:385
+msgid "Disable"
+msgstr "Desativa"
+
+#: includes/translations.php:386
+msgid "Save Changes"
+msgstr "Gravar alterações"
+
+#: includes/translations.php:387
+msgid "Subject"
+msgstr "Assunto"
+
+#: includes/translations.php:388
+msgid "Please provide Subject"
+msgstr "Por favor, forneça o assunto"
+
+#: includes/translations.php:389
+msgid "Blocked Date & Time"
+msgstr "Data e hora bloqueados"
+
+#: includes/translations.php:390
+msgid "Release Date & Time"
+msgstr "Data e hora liberados"
+
+#: includes/translations.php:391
+msgid "User Name"
+msgstr "Nome de usuário"
+
+#: includes/translations.php:392
+msgid "Date & Time"
+msgstr "Data e hora"
+
+#: includes/translations.php:393
+msgid "Action"
+msgstr "Ação"
+
+#: includes/translations.php:394
+msgid ""
+"You don't have Sufficient Access to this Page. Kindly contact the "
+"Administrator for more Privileges"
+msgstr ""
+"Você não possui acesso suficiente para esta página. Por favor, entre em "
+"contato com o Administrador para obter mais privilégios."
+
+#: includes/translations.php:395
+msgid "General Settings"
+msgstr "Configurações gerais"
+
+#: includes/translations.php:398
+msgid "Upgrade"
+msgstr "Atualizar"
+
+#: includes/translations.php:399
+msgid "Premium Edition"
+msgstr "Edição Premium"
+
+#: includes/translations.php:402
+msgid "Available Countries"
+msgstr "Países disponíveis"
+
+#: includes/translations.php:403
+msgid "List of all Countries"
+msgstr "Lista de todos os países"
+
+#: includes/translations.php:404
+msgid "Add >>"
+msgstr "Adicionar >>"
+
+#: includes/translations.php:405
+msgid "<< Remove"
+msgstr "<<Remover"
+
+#: includes/translations.php:406
+msgid "Blocked Countries"
+msgstr "Países bloqueados"
+
+#: includes/translations.php:407
+msgid "List of all Countries being Blocked"
+msgstr "Lista de países sendo bloqueados"
+
+#: includes/translations.php:408
+msgid "Block"
+msgstr "bloco"
+
+#~ msgid "The license has been activated Successfully"
+#~ msgstr "A licensa foi ativada com sucesso"
+
+#~ msgid "A Login Log has been deleted Successfully"
+#~ msgstr "Um Log do Login foi apagado com sucesso"
+
+#~ msgid "Selected Login Logs have been deleted Successfully"
+#~ msgstr "Logs de Login selecionados foram apagados  com sucesso"
+
+#~ msgid "Selected IP Addresses have been deleted Successfully"
+#~ msgstr "Endereços de IP selecionados foram apagados com sucesso"
+
+#~ msgid "Selected IP Ranges have been deleted Successfully"
+#~ msgstr "Intervalos de IP selecionados foram apagados com sucesso"
+
+#~ msgid "Email Templates have been saved Successfully"
+#~ msgstr "Modelos de Emails foi gravados com sucesso"
+
+#~ msgid "A Traffic Log has been deleted Successfully"
+#~ msgstr "Um Log de Tráfego foi apagado com sucesso"
+
+#~ msgid "Selected Traffic Logs have been deleted Successfully"
+#~ msgstr "Log de Tráfego selecionado foi apagado com sucesso"
+
+#~ msgid "A Visitor Log has been deleted Successfully"
+#~ msgstr "Um Log de Visitante foi apagado com sucesso"
+
+#~ msgid "Selected Visitor Logs have been deleted Successfully"
+#~ msgstr "Log de Visitante selecionado foi apagado com sucesso"
+
+#~ msgid "Roles and Capabilities have been saved Successfully"
+#~ msgstr "Regras e Compatibilidades foram gravadas com sucesso"
+
+#~ msgid "Selected Countries have been blocked Successfully"
+#~ msgstr "Os países selecionados foram bloqueados com sucesso"
+
+#~ msgid "Selected Countries have been unblocked Successfully"
+#~ msgstr "Os países selecionados foram desbloqueados com sucesso"
+
+#~ msgid "Please choose at least one Relational action!"
+#~ msgstr "Por favor, escolha pelo menos uma ação relacional!"
+
+#~ msgid "Please choose at least one Arrange order action!"
+#~ msgstr "Por favor, escolha pelo menos uma ação de organização em ordem!"
+
+#~ msgid "Please choose an Action from Dropdown!"
+#~ msgstr "Por favor, escolha uma ação no menu suspenso!"
+
+#~ msgid "Please choose at least one record to delete!"
+#~ msgstr "Por favor, escolha pelo menos uma gravação para excluir!"
+
+#~ msgid "Please choose at least one record to block IP Address!"
+#~ msgstr ""
+#~ "Por favor, escolha pelo menos um registro para bloquear endereços IP!"
+
+#~ msgid "Are you sure you want to block ?"
+#~ msgstr "Tem certeza de que deseja bloquear?"
+
+#~ msgid "Selected Login Logs IP Addresses have been blocked Successfully"
+#~ msgstr "Endereços Acesso Logs IP selecionados foram bloqueados com sucesso"
+
+#~ msgid "Selected Traffic Logs IP Addresses have been blocked Successfully"
+#~ msgstr ""
+#~ "Selecionados registros de tráfego IP foram bloqueados com sucesso "
+#~ "Endereços"
+
+#~ msgid "Selected Visitor Logs IP Addresses have been blocked Successfully"
+#~ msgstr ""
+#~ "IP selecionado Endereços Logs visitantes foram bloqueados com sucesso"
+
+#~ msgid ""
+#~ "Please copy and paste this shortcode in your Contact Form after Saving "
+#~ "Changes"
+#~ msgstr ""
+#~ "Por favor, copie e cole este código em seu formulário de contato após "
+#~ "salvar as modificações"
+
+#~ msgid "Important Notice!"
+#~ msgstr "Notícia importante"
+
+#~ msgid ""
+#~ "Congratulations! You have recently purchased Captcha Booster Business "
+#~ "Edition and now you would need to activate the license in order to unlock "
+#~ "it!"
+#~ msgstr ""
+#~ "Parabéns! Você adquiriu recentemente Captcha Booster Business Edition e "
+#~ "agora você precisa ativar a licença para desbloqueá-la!"
+
+#~ msgid ""
+#~ "Kindly fill in the required details and click on Validate License to "
+#~ "unlock it"
+#~ msgstr ""
+#~ "Por gentileza, preencha os dados necessários e clique em Validar licença "
+#~ "para desbloquear"
+
+#~ msgid "If you face any issues activating the license, you may contact us at"
+#~ msgstr ""
+#~ "Se você enfrentar quaisquer problemas de ativação da licença, entre em "
+#~ "contato conosco"
+
+#~ msgid "Product Name"
+#~ msgstr "Nome do produto"
+
+#~ msgid "In this field, you would be able to see your installed Product"
+#~ msgstr "Neste campo, você poderá ver o produto instalado"
+
+#~ msgid "Current Version"
+#~ msgstr "Versão atual"
+
+#~ msgid ""
+#~ "In this field, you would be able to see your installed Product Version"
+#~ msgstr "Neste campo, você poderá ver a versão do produto instalado"
+
+#~ msgid "In this field, you would be able to see your Website URL"
+#~ msgstr "Neste campo, você poderá ver a URL do seu site"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your Order ID received after "
+#~ "purchasing the Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Neste campo, você precisará fornecer seu ID de pedido recebido após a "
+#~ "compra do Produto. Isso será usado para validar a licença"
+
+#~ msgid "Please provide Order ID received after making the purchase"
+#~ msgstr "Forneça o ID da Encomenda recebido após efetuar a compra"
+
+#~ msgid ""
+#~ "In this field, you would need to provide your API Key received after "
+#~ "purchasing the Product. This will be used for Validating the License"
+#~ msgstr ""
+#~ "Neste campo, você precisará fornecer sua chave API recebida após a compra "
+#~ "do Produto. Isso será usado para validar a licença"
+
+#~ msgid "Please provide API Key received after making the purchase"
+#~ msgstr "Por favor, forneça a chave API recebida após a compra"
+
+#~ msgid "Validate License"
+#~ msgstr "Validar licença"
+
+#~ msgid "Website URL"
+#~ msgstr "URL"
+
+#~ msgid "Order ID"
+#~ msgstr "ID da Encomenda"
+
+#~ msgid "API KEY"
+#~ msgstr "Chave API"
+
+#~ msgid "Licensing"
+#~ msgstr "Licenciamento"
+
+#~ msgid "There is no changelog available."
+#~ msgstr "Não há changelog disponível."
+
+#~ msgid "Check for updates"
+#~ msgstr "Verificar atualizações"
+
+#~ msgid "This plugin is up to date."
+#~ msgstr "Este plugin é até à data."
+
+#~ msgid "A new version of this plugin is available."
+#~ msgstr "Este, E um plugin ATE dados."
+
+#~ msgid "Unknown update checker status \"%s\""
+#~ msgstr "Verificador de status de atualização desconhecida \"% s\""
+
+#~ msgid ""
+#~ "Live Traffic Monitoring is Turned Off. Please go to Other Settings Menu "
+#~ "to enable it"
+#~ msgstr ""
+#~ "O monitoramento de tráfego ao vivo está desativado. Por favor, vá para o "
+#~ "menu \"Outras definições\" para ativá-lo"
+
+#~ msgid ""
+#~ "Visitor Logs Monitoring is Turned Off. Please go to Other Settings Menu "
+#~ "to enable it"
+#~ msgstr ""
+#~ "O monitoramento de registro de visitantes ao vivo está desativado. Por "
+#~ "favor, vá para o menu \"Outras definições\" para ativá-lo"
+
+#~ msgid "Premium Edition Features :"
+#~ msgstr "Recursos da Premium Edition:"
+
+#~ msgid "* Click "
+#~ msgstr "*Clique"
+
+#~ msgid "here "
+#~ msgstr "aqui"
+
+#~ msgid " to see Premium Edition Features in detail."
+#~ msgstr "para ver os Recursos da Premium Edition em detalhe"
+
+#~ msgid "* For Captcha Booster Demos, click "
+#~ msgstr "* para demonstração do Captcha Booster, clique aqui"
+
+#~ msgid "* For Captcha Booster User Guide for this page, click "
+#~ msgstr ""
+#~ "* para guia de usuário do Captcha Booster para esta página, clique aqui"
+
+#~ msgid "Important Disclaimer!"
+#~ msgstr "Aviso Importante!"
+
+#~ msgid "* Blocking / Unblocking Countries"
+#~ msgstr "* Bloqueando / Desbloqueando países"
+
+#~ msgid "* Relational Captcha"
+#~ msgstr "* Captcha relacional"
+
+#~ msgid "* Arrange Order Captcha"
+#~ msgstr "* Captcha de organização em ordem"
+
+#~ msgid "* Unblocking IP Addresses"
+#~ msgstr "* Desbloqueando endereços de IP"
+
+#~ msgid "* Filters"
+#~ msgstr "*Filtros"
+
+#~ msgid "* Unblocking IP Ranges"
+#~ msgstr "Desbloqueando intervalos de IP"
+
+#~ msgid "* Editing Error Messages"
+#~ msgstr "* Editando mensagens de erro"
+
+#~ msgid "* Editing Email Templates"
+#~ msgstr "* Editando modelos de email"
+
+#~ msgid "* Deleting Live Traffic Logs"
+#~ msgstr "* Excluindo registros de tráfego ao vivo"
+
+#~ msgid "* Blocking IP Addresses from Live Traffic"
+#~ msgstr "* Bloqueando endereços de IP de tráfego ao vivo"
+
+#~ msgid "* Deleting Login Logs"
+#~ msgstr "* Excluindo registros de login"
+
+#~ msgid "* Blocking IP Addresses from Login Logs"
+#~ msgstr "* Bloqueando endereços de IP de registros de login"
+
+#~ msgid "* Deleting Visitor Logs"
+#~ msgstr "* Deletando registros de visitantes"
+
+#~ msgid "* Blocking IP Addresses from Visitor Logs"
+#~ msgstr "* Bloqueando endereços de IP de registros de visitantes"
+
+#~ msgid "* Saving Roles & Capabilities"
+#~ msgstr "* Salvando funções e capacidades"
+
+#~ msgid "* Captcha Background Field"
+#~ msgstr "* Campo de fundo captcha"
+
+#~ msgid "* Text Style and Text Font Fields"
+#~ msgstr "* Campos de Estilo de texto  e estilo de fonte"
+
+#~ msgid "* Signature Text, Style and Font Fields"
+#~ msgstr "* Campos de texto, estilo e fonte de assinatura"
+
+#~ msgid "* Hide Captcha For Registered user"
+#~ msgstr "* Esconder o captcha para usuários registrados"
+
+#~ msgid "* Captcha For WooCommerce"
+#~ msgstr "* Captcha para WooCommerce"
+
+#~ msgid "* Captcha For BuddyPress Registration Form"
+#~ msgstr "* Captcha para BuddyPress Registration Form"
+
+#~ msgid "* Captcha For Contact Form 7"
+#~ msgstr "* Captcha para Contact Form 7"
+
+#~ msgid "Premium Editions"
+#~ msgstr "Edições Premium"
+
+#~ msgid "If you would like to translate in "
+#~ msgstr "Se você gostaria de traduzir em"
+
+#~ msgid ""
+#~ " & help us, we will reward you with a free Personal Edition License of "
+#~ "Captcha Booster. If Interested, Kindly click "
+#~ msgstr ""
+#~ "e nos ajudar, nós o recompensaremos com uma Licença de Edição Pessoal "
+#~ "gratuita do Captcha Booster. Se estiver interessado, por favor clique"
+
+#~ msgid "here."
+#~ msgstr "aqui."
+
+#~ msgid "Are you sure you want to close without sending Translation Request?"
+#~ msgstr ""
+#~ "Tem certeza de que deseja fechar sem enviar a solicitação de tradução?"
+
+#~ msgid "Translation Request"
+#~ msgstr "Solicitação de tradução"
+
+#~ msgid "Language Interested to Translate"
+#~ msgstr "Linguagem de interesse para tradução"
+
+#~ msgid ""
+#~ "In this field, you would need to choose a language which you want to "
+#~ "translate"
+#~ msgstr ""
+#~ "Neste campo, você precisa escolher um idioma para o qual deseja traduzir"
+
+#~ msgid "Please provide a language"
+#~ msgstr "Forneça um idioma"
+
+#~ msgid "Query"
+#~ msgstr "Dúvida"
+
+#~ msgid "In this field, you would need to provide your query"
+#~ msgstr "Neste campo, você pode escrever sua dúvida."
+
+#~ msgid "Please provide your query"
+#~ msgstr "Por favor, escreva sua dúvida"
+
+#~ msgid "In this field, you would need to provide your Name"
+#~ msgstr "Neste campo você deve fornecer seu nome"
+
+#~ msgid "In this field, you would need to provide your Email"
+#~ msgstr "Neste campo você deve fornecer seu email"
+
+#~ msgid "Close"
+#~ msgstr "Fechar"
+
+#~ msgid "Features available in Business and Developer Editions :"
+#~ msgstr "Recursos disponíveis nas Business and Developer Editions:"
+
+#~ msgid "* Bulk Delete"
+#~ msgstr "* Exclusão em massa"
+
+#~ msgid ""
+#~ "This feature is only available in Business and Developer Editions! <br> "
+#~ "Kindly Purchase to unlock it!."
+#~ msgstr ""
+#~ "Este recurso está disponível somente em Edições Business e Developer! "
+#~ "<br> Por gentileza, compre para desbloqueá-lo !."
